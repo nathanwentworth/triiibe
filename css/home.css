@@ -5,13 +5,18 @@ div.hero {
   flex-direction: column;
   justify-content: space-around;
   text-align: center;
+  background: #394146;
+}
+div.hero svg {
+	padding: 24px;
 }
 div.hero > div {
 	transform: rotate(-8deg);
+	background: #D1D3D3;
 }
 
 .hero h1 {
-	color: #F600F1;
+	color: #fff;
 	padding: 32px;
 	font-size: 2.5em;
 }

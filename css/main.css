@@ -108,7 +108,7 @@ header {
   justify-content: space-around;
   min-height: 68px;
   padding: 16px 0;
-  background: #eee;
+  background: #D1D3D3;
 }
 header img {
 	max-height: 100%;
@@ -120,9 +120,9 @@ header a {
 	margin: 0 1.5em;
 	text-decoration: none;
 }
-header a:link, header a:visited {color: #6a6a6a;}
-header a:hover {color: #333;}
-header a:active {color: #333;}
+header a:link, header a:visited {color: #F9F9F9;}
+header a:hover {color: #fff;}
+header a:active {color: #fff;}
 
 h1, h2 {
 	font-family: 'Montserrat', sans-serif;	
