@@ -100,6 +100,9 @@ textarea {
 body, html {
 	min-height: 100vh;
 	font-family: 'Rubik', sans-serif;
+	-webkit-text-stroke: 0px!important;-webkit-font-smoothing: antialiased !important;
+	-webkit-filter: blur(0);
+	-webkit-transform: translateZ(0);
 }
 header {
 	font-family: 'Montserrat', sans-serif;
@@ -108,19 +111,21 @@ header {
   justify-content: space-around;
   min-height: 68px;
   padding: 16px 0;
-  background: #D1D3D3;
+  background: #394146;
 }
-header img {
-	max-height: 100%;
-	width: auto;
+header svg {
+	padding: 8px;
+	width: 200px;
+	height: auto;
 }
 header a {
+	transition: 0.3s;
 	font-size: 2em;
 	font-weight: lighter;
 	margin: 0 1.5em;
 	text-decoration: none;
 }
-header a:link, header a:visited {color: #F9F9F9;}
+header a:link, header a:visited {color: #DCDCDC;}
 header a:hover {color: #fff;}
 header a:active {color: #fff;}
 

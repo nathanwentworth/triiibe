@@ -1,5 +1,5 @@
 div.hero {
-	height: calc(90vh - 63px);
+	height: calc(75vh);
 	display: flex;
   align-items: center;
   flex-direction: column;
@@ -8,11 +8,14 @@ div.hero {
   background: #394146;
 }
 div.hero svg {
-	padding: 24px;
+	padding: 16px;
+	width: 65vw;
+	height: auto;
 }
 div.hero > div {
-	transform: rotate(-8deg);
+	transform: rotate(-6deg) translateY(-16px);
 	background: #D1D3D3;
+	animation: sign 1s ease-out;
 }
 
 .hero h1 {
@@ -23,15 +26,11 @@ div.hero > div {
 
 
 div.main-container {
-	margin: 32px 0;
+	margin: 16px 0;
 	width: 100%;
-}
-
-.main-container img {
-	display: block;
-	margin: 32px;
-	width: calc(100% - 64px);
-	height: auto;
+	display: flex;
+  align-items: start;
+  justify-content: space-around;
 }
 
 .main-container p  {
@@ -41,15 +40,50 @@ div.main-container {
 	width: 90%;
 }
 
-.main-container h2 {
+.main-container h2, .main-container h1 {
 	text-align: center;
 }
+.column-container {
+	transition: 0.3s;
+	width: calc(91vw / 3);
+	display: inline-block;
+	margin: 16px auto;
+	background: #E7E7E7;
+}
+
+.column-container:hover {
+	transform: scale(1.05, 1.05);
+}
+
+iframe {
+	display: block;
+	margin: auto;
+	width: 90%;
+	height: 450px;
+}
+
 
 @media only screen and (min-width: 320px) and (max-width: 760px) {
+	div.main-container {
+		flex-direction: column;
+	}
+	.column-container {
+		width: 90vw;
+	}
 }
 
 @media only screen and (min-width: 760px) {
 }
 
 @media only screen and (min-width: 1000px) {
+}
+
+
+@keyframes sign {
+	0% {
+		transform: rotate(0deg) translateY(-100vh);
+	}
+	100% {
+		transform: rotate(-6deg) translateY(-16px);
+	}
 }
