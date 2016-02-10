@@ -25,12 +25,12 @@ html {
  */
 
 ::-moz-selection {
-    background: #E6E6E6;
+    background: #DE5C62;
     text-shadow: none;
 }
 
 ::selection {
-    background: #E6E6E6;
+    background: #DE5C62;
     text-shadow: none;
 }
 
@@ -100,9 +100,6 @@ textarea {
 body, html {
 	min-height: 100vh;
 	font-family: 'Rubik', sans-serif;
-	-webkit-text-stroke: 0px!important;-webkit-font-smoothing: antialiased !important;
-	-webkit-filter: blur(0);
-	-webkit-transform: translateZ(0);
 }
 header {
 	font-family: 'Montserrat', sans-serif;
@@ -119,7 +116,6 @@ header svg {
 	height: auto;
 }
 header a {
-	transition: 0.3s;
 	font-size: 2em;
 	font-weight: lighter;
 	margin: 0 1.5em;
@@ -131,6 +127,9 @@ header a:active {color: #fff;}
 
 h1, h2 {
 	font-family: 'Montserrat', sans-serif;	
+}
+a {
+	transition: 0.3s;
 }
 
 
