@@ -38,7 +38,7 @@
 }
 
 @media only screen and (min-width: 760px) {
-	.img-flex-sub:nth-child(2) {
+	.img-flex-sub:nth-child(2n) {
 		flex-direction: row-reverse;
 	}
 	.main-container img {

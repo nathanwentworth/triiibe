@@ -9,22 +9,26 @@ div.hero {
 }
 div.hero svg {
 	padding: 16px;
-	width: 65vw;
+	margin: 0;
+	width: calc(100% - 32px);
 	height: auto;
 }
 div.hero > div {
 	transform: rotate(-6deg) translateY(-16px);
 	background: #D1D3D3;
 	animation: sign 1s ease-out;
+	max-height: 90%;
+	max-width: 90%;
 }
 header a:first-child {
 	display: none;
 }
 .hero h1 {
 	color: #fff;
-	padding: 32px;
+	padding: 16px;
 	font-size: 2.5em;
 }
+
 
 
 div.main-container {
@@ -79,6 +83,10 @@ li {
 
 
 @media only screen and (min-width: 320px) and (max-width: 760px) {
+	.hero h1 {
+		font-size: 1.8em;
+		padding: 0 8px;
+	}
 	div.main-container {
 		flex-direction: column;
 	}

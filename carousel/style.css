@@ -1,0 +1,20 @@
+.hero h1 {
+	display: inline;
+	text-align: center;
+}
+.carousel {
+	margin: 32px auto;
+	display: block;
+	width: 90%;
+}
+.carousel img {
+	width: 100%;
+	height: auto;
+}
+svg {
+	display: block;
+	margin: 32px auto;
+	padding: 8px;
+	height: 100px;
+	width: auto;
+}
