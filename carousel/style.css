@@ -1,6 +1,11 @@
-.hero h1 {
-	display: inline;
+.hero {
+	display: flex;
+}
+h1, h2 {
 	text-align: center;
+}
+h1 {
+	font-size: 4em;
 }
 .carousel {
 	margin: 32px auto;

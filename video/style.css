@@ -1,0 +1,11 @@
+.vid-container {
+	margin: 32px auto;
+	max-width: 90%;
+	height: auto;
+	background: #333;
+}
+video {
+	width: calc(100% - 32px);
+	height: auto;
+	margin: 16px;
+}
