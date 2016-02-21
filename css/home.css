@@ -1,32 +1,23 @@
-div.hero {
-  height: 600px;
-  display: flex;
-  align-items: center;
-  flex-direction: column;
-  justify-content: space-around;
+header div {
   text-align: center;
-  background: #394146;
+  transform: rotate(-6deg);
+  background: #F38181;
+  animation: sign 1s ease-out;
+  margin-top: 32px;
+  border: 3px solid #F38181;
+  border-radius: 6px;
 }
-div.hero svg {
-  padding: 16px;
+header div svg {
+  padding: 8px;
   margin: 0;
-  width: calc(100% - 32px);
+  width: 90%;
   height: auto;
 }
-div.hero > div {
-  transform: rotate(-6deg) translateY(-16px);
-  background: #D1D3D3;
-  animation: sign 1s ease-out;
-  max-height: 90%;
-  max-width: 90%;
-}
-header a:first-child {
-  display: none;
-}
-.hero h1 {
+header div h1 {
   color: #fff;
-  padding: 16px;
-  font-size: 2.5em;
+  font-size: 1.1em;
+  margin: 0;
+  margin-bottom: 0.67em;
 }
 
 
@@ -113,6 +104,6 @@ li {
     transform: rotate(0deg) translateY(-100vh);
   }
   100% {
-    transform: rotate(-6deg) translateY(-16px);
+    transform: rotate(-6deg) translateY(0);
   }
 }

@@ -1,6 +1,3 @@
-.hero {
-	display: flex;
-}
 h1, h2 {
 	text-align: center;
 }
@@ -8,18 +5,11 @@ h1 {
 	font-size: 4em;
 }
 .carousel {
-	margin: 32px auto;
+	margin: auto;
 	display: block;
-	width: 90%;
+	width: 100%;
 }
 .carousel img {
 	width: 100%;
 	height: auto;
-}
-svg {
-	display: block;
-	margin: 32px auto;
-	padding: 8px;
-	height: 100px;
-	width: auto;
 }

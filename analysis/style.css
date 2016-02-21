@@ -21,10 +21,11 @@
 }
 
 .main-container p {
+	font-size: 1.1em;
 	flex-grow: 1;
 	width: calc(100% - 64px);
 	padding: 0 32px;
-	max-width: 500px;
+	max-width: 600px;
 }
 .main-container h1, .main-container h2 {
 	text-align: center;
