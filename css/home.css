@@ -1,109 +1,22 @@
-header div {
-  text-align: center;
-  transform: rotate(-6deg);
-  background: #F38181;
-  animation: sign 1s ease-out;
-  margin-top: 32px;
-  border: 3px solid #F38181;
-  border-radius: 6px;
+body {
+	background: #394146;
 }
-header div svg {
-  padding: 8px;
-  margin: 0;
-  width: 90%;
-  height: auto;
+h1, h2 {
+	text-align: center;
 }
-header div h1 {
-  color: #fff;
-  font-size: 1.1em;
-  margin: 0;
-  margin-bottom: 0.67em;
+h1 {
+	font-size: 4em;
 }
-
-
-
-div.main-container {
-  margin: 16px 0;
-  width: 100%;
-  display: flex;
-  align-items: start;
-  justify-content: space-around;
+.carousel {
+	margin: auto;
+	display: block;
+	width: 100%;
 }
-
-.main-container p  {
-  margin: 32px auto;
-  text-align: justify;
-  max-width: 700px;
-  width: 90%;
+.carousel img {
+	width: 100%;
+	height: auto;
 }
-
-.main-container h2, .main-container h1 {
-  text-align: center;
-}
-.column-container {
-  transition: 0.3s;
-  width: calc(91vw / 3);
-  display: inline-block;
-  margin: 16px auto;
-  background: #E7E7E7;
-}
-.column-container img {
-  width: 90%;
-  display: block;
-  margin: auto;
-}
-iframe {
-  display: block;
-  margin: auto;
-  width: 90%;
-  height: 450px;
-}
-
-ul {
-  border-left: 5px solid black;
-  list-style: none;
-}
-li {
-  margin: 8px 0;
-  font-size: 1.2em;
-}
-.main-container a:link, .main-container a:visited {color: #3F3F3F;}
-.main-container a:hover {color: #000000;}
-.main-container a:active {color: #000000;}
-
-
-
-@media only screen and (min-width: 320px) and (max-width: 760px) {
-  div.hero {
-    height: 400px;
-  }
-  .hero h1 {
-    font-size: 1.8em;
-    padding: 0 8px;
-  }
-  div.main-container {
-    flex-direction: column;
-  }
-  .column-container {
-    width: 90vw;
-  }
-}
-
-@media only screen and (min-width: 760px) {
-  .column-container:hover {
-    transform: scale(1.05, 1.05);
-  }
-}
-
-@media only screen and (min-width: 1000px) {
-}
-
-
-@keyframes sign {
-  0% {
-    transform: rotate(0deg) translateY(-100vh);
-  }
-  100% {
-    transform: rotate(-6deg) translateY(0);
-  }
+p {
+	margin: auto;
+	max-width: 600px;
 }
