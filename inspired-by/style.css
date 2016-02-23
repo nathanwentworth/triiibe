@@ -41,18 +41,13 @@
 	.main-container img {
 		width: 50vw;
 	}
-	.main-container img:hover {
-    transform: scale(1.05, 1.05);
-  }
 	.main-container p {
 		flex-grow: 1;
 		width: calc(50vw - 64px);
 		padding: 0 32px;
 		text-align: justify;
 	}
-  .column-container:hover {
-    transform: scale(1.05, 1.05);
-  }
+
 
 
 }
