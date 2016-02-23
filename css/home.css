@@ -1,6 +1,3 @@
-body {
-	background: #394146;
-}
 h1, h2 {
 	text-align: center;
 }
@@ -17,6 +14,6 @@ h1 {
 	height: auto;
 }
 p {
-	margin: auto;
+	margin: 32px auto;
 	max-width: 600px;
 }
