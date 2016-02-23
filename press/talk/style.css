@@ -1,0 +1,15 @@
+.main-container h1 {
+	text-align: center;
+}
+.main-container section {
+	margin: auto;
+	width: 90%;
+	max-width: 760px;
+	background: #fff;
+	border: 32px solid #fff;
+	border-radius: 6px;
+}
+.main-container img {
+	width: 100%;
+	margin: 32px auto;
+}

@@ -179,7 +179,7 @@ p {
 /* dropdown thing!!! from https://toddmotto.com/html5-and-jquery-super-simple-drop-down-nav/ */
 
 nav {}
-nav ul {padding:0;text-align:center;}
+nav ul {padding:0;text-align:center;z-index: 10000;}
 nav ul li {float:left;display:inline;}
 nav ul li:hover {}
 nav ul li a {display:block;padding:15px 25px;color:#444;}
