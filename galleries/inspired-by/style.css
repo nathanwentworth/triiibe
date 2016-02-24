@@ -19,7 +19,7 @@
 	flex-grow: 1;
 	width: calc(100% - 64px);
 	padding: 0 32px;
-	max-width: 500px;
+	max-width: 700px;
 }
 .main-container h1, .main-container h2 {
 	text-align: center;
