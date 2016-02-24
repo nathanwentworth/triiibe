@@ -107,6 +107,7 @@ body, html {
 	min-height: 100vh;
 	background: #eee;
 	font-family: 'Rubik', sans-serif;
+	margin-bottom: 32px;
 }
 header {
 	font-family: 'Montserrat', sans-serif;
@@ -169,12 +170,20 @@ a {
 	font-size: 3em;
 }
 
+.main-container a:link, .main-container a:visited {color: #3F3F3F;}
+.main-container a:hover {color: #7F7F7F;}
+.main-container a:active {color: #7F7F7F;}
+
 p {
 	width: 90vw;
-	max-width: 600px;
+	max-width: 700px;
 	font-size: 1.2em;
 }
 
+.featherlight-inner {
+	max-width: 90vw;
+	margin: auto;
+}
 
 /* dropdown thing!!! from https://toddmotto.com/html5-and-jquery-super-simple-drop-down-nav/ */
 

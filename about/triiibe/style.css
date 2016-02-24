@@ -1,0 +1,12 @@
+h1 {
+	text-align: center;
+}
+p {
+	margin: 32px auto;
+}
+img {
+	display: block;
+	margin: auto;
+	width: 90vw;
+	max-width: 1000px;
+}

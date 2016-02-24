@@ -1,6 +1,9 @@
 .img-flex {
 
 }
+.main-container a {
+	text-decoration: none;
+}
 .img-flex-sub {
 	margin: auto;
 	display: flex;
