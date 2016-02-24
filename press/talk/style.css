@@ -2,7 +2,7 @@
 	text-align: center;
 }
 .main-container section {
-	margin: auto;
+	margin: 32px auto;
 	width: 90%;
 	max-width: 760px;
 	background: #fff;
@@ -12,4 +12,7 @@
 .main-container img {
 	width: 100%;
 	margin: 32px auto;
+}
+.main-container a {
+	font-size: 1.2em;
 }

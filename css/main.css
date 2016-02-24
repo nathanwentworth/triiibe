@@ -180,9 +180,12 @@ p {
 	font-size: 1.2em;
 }
 
-.featherlight-inner {
-	max-width: 90vw;
+.featherlight .featherlight-content {
 	margin: auto;
+}
+
+.featherlight img {
+	max-width: 90vw;
 }
 
 /* dropdown thing!!! from https://toddmotto.com/html5-and-jquery-super-simple-drop-down-nav/ */
