@@ -28,6 +28,19 @@
 	width: calc(100% - 64px);
 	padding: 0 32px;
 }
+.featherlight p {
+	margin: auto;
+	text-indent: 2em;
+	text-align: justify;
+}
+.featherlight img {
+	width: 100%;
+	max-width: 600px;
+	margin-bottom: 16px;
+}
+.featherlight h1 {
+	text-align: center;
+}
 .main-container h1, .main-container h2 {
 	text-align: center;
 }
