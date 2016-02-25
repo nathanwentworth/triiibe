@@ -37,9 +37,12 @@
 
 
 .featherlight p {
-	margin: auto;
+	margin: 16px auto;
 	text-indent: 2em;
 	text-align: justify;
+}
+.featherlight p:last-child {
+	margin-bottom: 32px;
 }
 .featherlight img {
 	width: 100%;
