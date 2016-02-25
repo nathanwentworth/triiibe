@@ -1,12 +1,43 @@
-h1 {
+.main-container h1, .main-container h2 {
 	text-align: center;
 }
 p {
 	margin: 32px auto;
+	width: 600px;
 }
 img {
 	display: block;
 	margin: auto;
 	width: 90vw;
-	max-width: 1000px;
+	max-width: 960px;
+}
+.half-width {
+	display: inline-block;
+}
+
+
+@media only screen and (min-width: 320px) and (max-width: 1000px) {
+	.under-photo {
+		margin: auto;
+	}
+	.half-width {
+		display: inline-block;
+		width: 100%;
+	}
+	.half-width p {
+		width: 90%;
+		margin: auto;
+	}
+}
+
+@media only screen and (min-width: 1000px) {
+	.under-photo {
+		margin: auto;
+		display: flex;
+		justify-content: center;
+		}
+	.half-width p {
+		margin: 32px;
+		width: 400px;
+	}
 }

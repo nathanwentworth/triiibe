@@ -115,9 +115,16 @@ header {
   align-items: center;
   /*justify-content: space-around;*/
   /*padding: 16px 0;*/
+  	/*blue-grey*/
   /*background: #394146;*/
+  	/*flat grey*/
   background: #333;
+  	/*dark pink*/
   /*background: #C34F85;*/
+  	/*pink*/
+  /*background: #F9619F;*/
+  	/*blue*/
+  /*background: #4281F6;*/
   /*max-height: 60px;*/
 }
 header a {
@@ -171,17 +178,26 @@ a {
 	font-size: 3em;
 }
 
-.main-container a:link, .main-container a:visited {color: #3F3F3F;}
-.main-container a:hover {color: #7F7F7F;}
-.main-container a:active {color: #7F7F7F;}
+.main-container a:link, .main-container a:visited {color: #555555;}
+.main-container a:hover {color: #333;}
+.main-container a:active {color: #333;position: relative; top: 2px;}
+.main-container a {
+	text-decoration: underline;
+}
 
 p {
 	width: 90vw;
 	max-width: 700px;
 	font-size: 1.2em;
+	line-height: 160%;
 }
 p.blurb {
+	margin: auto;
 	text-align: center;
+	margin-bottom: 32px;
+}
+p.indent {
+	text-indent: 2em;
 }
 
 .featherlight .featherlight-content {
