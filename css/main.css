@@ -180,9 +180,15 @@ a {
 
 .main-container a:link, .main-container a:visited {color: #555555;}
 .main-container a:hover {color: #333;}
-.main-container a:active {color: #333;position: relative; top: 2px;}
+.main-container a:active {color: #333;}
 .main-container a {
 	text-decoration: underline;
+}
+.main-container .carousel a:link, .main-container .carousel a:visited {color: #fff;}
+.main-container .carousel a:hover {color: #fff;}
+.main-container .carousel a:active {color: #fff;}
+.main-container .carousel a {
+	text-decoration: none;
 }
 
 p {
