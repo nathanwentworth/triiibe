@@ -1,0 +1,12 @@
+.main-container img {
+	display: block;
+	margin: auto;
+	max-width: 1000px;
+	height: auto;
+}
+.main-container h1 {
+	text-align: center;
+}
+.main-container p {
+	margin: 32px auto;
+}

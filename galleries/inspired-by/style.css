@@ -7,18 +7,21 @@
 
 .main-container img {
 	display: block;
-	flex-grow: 1;
-	margin: 0;
-	width: 100vw;
+	/*flex-grow: 1;*/
+	margin: auto;
+	max-width: 100%;
+	width: auto;
 	height: auto;
 	align-self: auto;
 	transition: 0.3s;
+	max-height: 65vh;
 }
 
 .main-container p {
 	flex-grow: 1;
-	width: calc(100% - 64px);
-	padding: 0 32px;
+	margin: auto;
+	width: 100%;
+	border: 32px solid inherit;
 	max-width: 700px;
 }
 .main-container h1, .main-container h2 {
@@ -39,7 +42,8 @@
 		flex-direction: row-reverse;
 	}
 	.main-container img {
-		width: 50vw;
+		width: auto;
+		max-width: 50vw;
 	}
 	.main-container p {
 		flex-grow: 1;
