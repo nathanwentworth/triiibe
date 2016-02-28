@@ -78,6 +78,11 @@ section.full-width .text-container {
 	left: 60%;
 	width: 30%;
 }
+section.full-width a {
+	width: 100%;
+	height: 100%;
+	display: block;
+}
 .image-fixed {
 	display: inline-block;
 	height: 80vh;
