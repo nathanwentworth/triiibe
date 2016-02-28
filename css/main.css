@@ -105,26 +105,36 @@ textarea {
 
 body, html {
 	min-height: 100vh;
-	background: #eee;
+		/*light grey*/
+	/*background: #eee;*/
+		/*light blue-ish*/
+	background: #DFEBED;
 	font-family: 'Rubik', sans-serif;
-	margin-bottom: 32px;
 }
 header {
 	font-family: 'Montserrat', sans-serif;
 	display: flex;
   align-items: center;
+
+/*  border-bottom-right-radius: 60px;
+  border-bottom-left-radius: 60px;*/
+
   /*justify-content: space-around;*/
   /*padding: 16px 0;*/
   	/*blue-grey*/
   /*background: #394146;*/
   	/*flat grey*/
-  background: #333;
+  /*background: #333;*/
   	/*dark pink*/
-  /*background: #C34F85;*/
+  /*background: #A03166;*/
   	/*pink*/
   /*background: #F9619F;*/
   	/*blue*/
   /*background: #4281F6;*/
+  	/*lighter, dusty pink*/
+  /*background: #DD697D;*/
+  	/*orange*/
+	background: #F78536;
   /*max-height: 60px;*/
 }
 header a {
@@ -151,7 +161,6 @@ header a.button-title {
   max-width: 200px;
 }
 header a.button-title svg {
-  padding: 8px;
   margin: 0;
   width: 90%;
   height: auto;
@@ -163,6 +172,14 @@ header a.button-title h1 {
   margin-bottom: 0.67em;
 }
 header a.button-title:hover {
+}
+
+footer {
+	width: 100%;
+	height: 200px;
+}
+footer div {
+	margin: 16px;
 }
 
 h1, h2 {
@@ -192,7 +209,7 @@ a {
 }
 
 p {
-	width: 90vw;
+	width: 90%;
 	max-width: 700px;
 	font-size: 1.2em;
 	line-height: 160%;
@@ -201,6 +218,9 @@ p.blurb {
 	margin: auto;
 	text-align: center;
 	margin-bottom: 36px;
+	background: #fff;
+	border: 32px solid white;
+	border-radius: 8px;
 }
 p.indent {
 	text-indent: 2em;
@@ -235,7 +255,7 @@ nav ul li:hover ul.fallback {display:block;}
 @media only screen and (min-width: 320px) and (max-width: 760px) {
 	header {
 		flex-wrap: wrap;
-		max-height: 120px;
+		
 	}
 	header a.button-title {
 		width: 100%;
@@ -251,13 +271,16 @@ nav ul li:hover ul.fallback {display:block;}
 
 @media only screen and (min-width: 760px) {
 	header {
-		max-height: 60px;
+		max-height: 120px;
 	}
 }
 
 @media only screen and (min-width: 1000px) {
 	header a.button-title h1 {
 		font-size: 1.1em;
+	}
+	header {
+		max-height: 60px;
 	}
 }
 

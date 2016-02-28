@@ -5,9 +5,9 @@
 	font-size: 3.2em;
 }
 .carousel {
-	margin: auto;
+	margin: 32px auto;
 	display: block;
-	width: 100%;
+	width: 80%;
 }
 .carousel img {
 	width: 100%;
@@ -18,15 +18,121 @@ p {
 	max-width: 600px;
 	font-size: 1.3em;
 }
-.carousel-text-box {
+.carousel svg {
+	width: 100%;
+	display: block;
+	margin: auto;
+	padding: 16px;
+	position: absolute;
 	top: 50%;
 	left: 50%;
+	z-index: 100;
 	transform: translate(-50%, -50%);
-	background: rgba(255, 255, 255, 0.75);
-	border-radius: 6px;
-	padding: 16px;
-	text-align: center;
-	position: absolute;
+}
+.full-top {
+	width: 100%;
+	height: 85vh;
+	background-position: center;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+.full-top svg {
+	width: 100%;
+	display: block;
 	margin: auto;
-	z-index: 1000;
+	padding: 16px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	z-index: 100;
+	transform: translate(-50%, -50%);
+}
+.full-top h1 {
+	position: absolute;
+	bottom: 10%;
+	color: #fff;
+	margin: auto;
+	text-align: center;
+	width: 100%;
+	font-size: 4em;
+	animation: v-bounce 1s alternate infinite;
+	animation-timing-function: ease-out;
+}
+section {
+	margin: auto;
+	width: 1200px;
+	max-width: 90%;
+}
+section.full-width {
+	width: 100%;
+	max-width: 100%;
+}
+section.full-width .image-fixed {
+	width: 100%;
+}
+section.full-width .text-container {
+	left: 60%;
+	width: 30%;
+}
+.image-fixed {
+	display: inline-block;
+	height: 80vh;
+	width: 75%;
+	background-position: center;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+.text-container {
+	background: #fff;
+	position: relative;
+	left: 90%;
+	top: 50%;
+	transform: translateY(-50%);
+	display: inline-block;
+	border: 16px solid white;
+	border-radius: 8px;
+	width: 50%;
+}
+.text-container h1 {
+	margin: 0;
+}
+
+
+line {
+  animation-name: pop-in;
+  animation-duration: .1s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: 1;
+  animation-timing-function: ease-in;
+  opacity: 0;
+}
+#stroke-10 {animation-delay: 2s;}
+#stroke-11 {animation-delay: 2.2s;}
+#stroke-12 {animation-delay: 2.4s;}
+
+
+@keyframes pop-in {
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 100;
+	}
+}
+
+@keyframes v-bounce {
+  0% {
+    transform: translateY(0);
+  }
+  100% {
+    transform: translateY(-10px);
+  }
 }
