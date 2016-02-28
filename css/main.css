@@ -113,7 +113,7 @@ body, html {
 }
 header {
 	font-family: 'Montserrat', sans-serif;
-	display: flex;
+	/*display: flex;*/
   align-items: center;
 
 /*  border-bottom-right-radius: 60px;
@@ -149,11 +149,12 @@ header a:active {color: #DCDCDC;}
 
 header a.button-title {
 	display: inline-block;
+	float: left;
   text-align: center;
   transform: rotate(-6deg);
   background: inherit;
   animation: sign 1s ease-out;
-  margin-top: 48px;
+  /*margin-top: 48px;*/
   margin-left: 1em;
   border: 3px solid inherit;
   border-radius: 6px;
@@ -236,7 +237,7 @@ p.indent {
 
 /* dropdown thing!!! from https://toddmotto.com/html5-and-jquery-super-simple-drop-down-nav/ */
 
-nav {}
+nav {display: inline-block;}
 nav ul {padding:0;text-align:center;z-index: 10000;}
 nav ul li {float:left;display:inline;}
 nav ul li:hover {}
@@ -271,7 +272,7 @@ nav ul li:hover ul.fallback {display:block;}
 
 @media only screen and (min-width: 760px) {
 	header {
-		max-height: 120px;
+		/*max-height: 120px;*/
 	}
 }
 
@@ -280,7 +281,7 @@ nav ul li:hover ul.fallback {display:block;}
 		font-size: 1.1em;
 	}
 	header {
-		max-height: 60px;
+		/*max-height: 60px;*/
 	}
 }
 
