@@ -184,14 +184,14 @@ footer div {
 }
 
 h1, h2 {
-	font-family: 'Montserrat', sans-serif;	
+	font-family: 'Coming Soon', cursive;
 }
 a {
 	transition: 0.3s;
 }
 
 .main-container h1 {
-	margin: 0.67em auto;
+	/*margin: 0.67em auto;*/
 	max-width: 90%;
 	font-size: 3em;
 }
