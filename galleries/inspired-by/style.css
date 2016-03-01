@@ -4,7 +4,6 @@
 	align-items: center;
 	padding: 16px;
 }
-
 .main-container img {
 	display: block;
 	/*flex-grow: 1;*/
@@ -13,15 +12,19 @@
 	width: auto;
 	height: auto;
 	align-self: auto;
-	transition: 0.3s;
 	max-height: 65vh;
+	border-radius: 8px;
 }
-
+.img-flex-sub div {
+	background: #fff;
+	border: 16px solid #fff;
+	margin: auto 8px;
+	border-radius: 8px;	
+}
 .img-flex-sub p {
 	flex-grow: 1;
 	margin: auto;
 	width: 100%;
-	border: 32px solid inherit;
 	max-width: 700px;
 }
 .main-container h1, .main-container h2 {

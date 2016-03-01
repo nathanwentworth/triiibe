@@ -23,6 +23,7 @@
 	display: inline-block;
 	width: 40%;
 }
+
 .main-container p {
 	margin: auto;
 	/*font-size: 1.4em;*/
@@ -33,7 +34,9 @@
 	font-size: 1.7em;
 }
 
-
+.featherlight-content {
+	border-radius: 8px;
+}
 .featherlight p {
 	margin: 16px auto;
 	text-indent: 2em;
@@ -46,6 +49,7 @@
 	width: 100%;
 	max-width: 700px;
 	margin-bottom: 16px;
+	border-radius: 8px;
 }
 .featherlight h1 {
 	text-align: center;
@@ -57,10 +61,34 @@
 
 
 
-@media only screen and (min-width: 320px) and (max-width: 760px) {
+@media only screen and (max-width: 760px) {
 	.main-container p {
 		padding: 0 32px;
 	}
+	.img-flex-sub {
+		flex-direction: column;
+	}
+	.text-content {
+		border-radius: 8px;
+		background: #fff;
+		border: 8px solid #fff;
+		position: initial;
+		display: block;
+		margin: 16px auto;
+		width: 90%;
+	}
+	.photo-container {
+		max-width: 90%;
+		display: block;
+		margin: auto;
+	}
+	.photo-container img {
+		border-radius: 8px;
+		width: auto;
+		max-width: 100%;
+		height: auto;
+	}
+
 
 }
 

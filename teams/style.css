@@ -1,0 +1,27 @@
+.main-container h1, .main-container h2, .portrait-container h3 {
+	text-align: center;
+}
+.team {
+	margin: auto;
+	display: block;
+	width: 50%;
+	max-width: 1000px;
+}
+.portrait-container {
+	display: inline-block;
+	max-width: 256px;
+	width: 100%;
+	margin: 16px 0;
+	vertical-align: top; 
+}
+.portrait-container p {
+	text-align: center;
+	margin: auto;
+}
+.portrait-container img {
+	width: 128px;
+	height: 128px;
+	border-radius: 50%;
+	display: block;
+	margin: auto;
+}

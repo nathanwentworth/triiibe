@@ -4,31 +4,7 @@
 .main-container h1 {
 	font-size: 3.2em;
 }
-.carousel {
-	margin: 32px auto;
-	display: block;
-	width: 80%;
-}
-.carousel img {
-	width: 100%;
-	height: auto;
-}
-p {
-	/*margin: 32px auto;*/
-	max-width: 600px;
-	font-size: 1.3em;
-}
-.carousel svg {
-	width: 100%;
-	display: block;
-	margin: auto;
-	padding: 16px;
-	position: absolute;
-	top: 50%;
-	left: 50%;
-	z-index: 100;
-	transform: translate(-50%, -50%);
-}
+
 .full-top {
 	width: 100%;
 	height: 85vh;
@@ -86,7 +62,7 @@ section.full-width a {
 .image-fixed {
 	display: inline-block;
 	height: 80vh;
-	width: 75%;
+	width: 100%;
 	background-position: center;
 	background-attachment: fixed;
 	background-repeat: no-repeat;
@@ -122,6 +98,33 @@ line {
 #stroke-10 {animation-delay: 2s;}
 #stroke-11 {animation-delay: 2.2s;}
 #stroke-12 {animation-delay: 2.4s;}
+
+@media only screen and (min-width: 320px) and (max-width: 760px) {
+	section.full-width .text-container {
+		left: 50%;
+		transform: translateX(-50%);
+		width: 50%;
+	}
+	.image-fixed {
+		background-attachment: initial;
+	}
+	.full-top {
+		background-attachment: initial;
+	}
+
+
+}
+
+@media only screen and (min-width: 760px) {
+	section.full-width .text-container {
+		left: 60%;
+		width: 30%;
+	}
+}
+
+@media only screen and (min-width: 1000px) {
+}
+
 
 
 @keyframes pop-in {

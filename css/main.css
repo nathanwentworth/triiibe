@@ -105,10 +105,8 @@ textarea {
 
 body, html {
 	min-height: 100vh;
-		/*light grey*/
-	/*background: #eee;*/
-		/*light blue-ish*/
 	background: #eee;
+	font-size: 14px;
 	font-family: 'Rubik', sans-serif;
 }
 header {
@@ -183,17 +181,22 @@ footer div {
 	margin: 16px;
 }
 
-h1, h2 {
+h1, h2, h3 {
 	font-family: 'Arvo', serif;
+	text-align: center;
+	margin: 1em auto;
+	font-weight: normal;
 }
+h1 {font-size: 3em;}
+h2 {font-size: 2.1em;}
+h3 {font-size: 1.8em;}
+
 a {
 	transition: 0.3s;
 }
 
 .main-container h1 {
 	/*margin: 0.67em auto;*/
-	max-width: 90%;
-	font-size: 3em;
 }
 
 .main-container a:link, .main-container a:visited {color: #555555;}
