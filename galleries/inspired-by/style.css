@@ -51,7 +51,7 @@
 	.main-container p {
 		flex-grow: 1;
 		width: calc(50vw - 64px);
-		padding: 0 32px;
+		padding: 16px;
 		text-align: justify;
 	}
 

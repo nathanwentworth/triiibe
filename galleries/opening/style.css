@@ -6,9 +6,11 @@
 }
 .main-container div {
 	margin: 16px;
-	width: calc((100vw / 3) - 32px);
+	width: 500px;
+	max-width: 90%;
 	height: auto;
 	display: inline-block;
+	text-align: center;
 }
 .main-container img {
 	width: 100%;

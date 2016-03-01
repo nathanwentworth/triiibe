@@ -123,16 +123,20 @@ header {
   /*background: #394146;*/
   	/*flat grey*/
   /*background: #333;*/
-  	/*dark pink*/
-  /*background: #A03166;*/
+  	/*headband purple*/
+  /*background: #5A3439;*/
   	/*pink*/
   /*background: #F9619F;*/
-  	/*blue*/
-  /*background: #4281F6;*/
+  	/*center sky blue*/
+  /*background: #5F74AA;*/
   	/*lighter, dusty pink*/
   /*background: #DD697D;*/
   	/*orange*/
 	background: #F78536;
+  	/*dark red*/
+	/*background: #890C02;*/
+		/*apple orange*/
+	/*background: #F84F00;*/
   /*max-height: 60px;*/
 }
 header a {
@@ -140,6 +144,8 @@ header a {
 	font-weight: lighter;
 	margin: 0;
 	text-decoration: none;
+	font-family: 'Arvo', serif;
+	font-weight: bold;
 }
 header a:link, header a:visited {color: #fff;}
 header a:hover {color: #DCDCDC;}
@@ -223,7 +229,7 @@ p.blurb {
 	text-align: center;
 	margin-bottom: 36px;
 	background: #fff;
-	border: 32px solid white;
+	border: 16px solid white;
 	border-radius: 8px;
 }
 p.indent {
@@ -241,7 +247,7 @@ p.indent {
 /* dropdown thing!!! from https://toddmotto.com/html5-and-jquery-super-simple-drop-down-nav/ */
 
 nav {display: inline-block;}
-nav ul {padding:0;text-align:center;z-index: 10000;}
+nav ul {padding:0;margin: 0;text-align:center;z-index: 10000;}
 nav ul li {float:left;display:inline;}
 nav ul li:hover {}
 nav ul li a {display:block;padding:15px 25px;color:#444;}
