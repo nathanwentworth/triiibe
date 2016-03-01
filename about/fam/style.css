@@ -2,6 +2,7 @@
 	display: block;
 	margin: auto;
 	max-width: 1000px;
+	width: 90%;
 	height: auto;
 }
 .main-container h1 {

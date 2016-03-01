@@ -1,12 +1,12 @@
 .photo-container {
 	display: inline-block;
-	width: 70%;
-	margin: auto;
+	margin-left: auto;
 }
 .photo-container img {
 	border-radius: 8px;
-	width: 100%;
+	width: auto;
 	height: auto;
+	max-height: 700px;
 }
 .img-flex-sub {
 	align-items: center;
@@ -21,7 +21,7 @@
 	position: relative;
 	left: -32px;
 	display: inline-block;
-	width: 50%;
+	width: 40%;
 }
 .main-container p {
 	margin: auto;
