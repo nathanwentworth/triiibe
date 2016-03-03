@@ -1,0 +1,46 @@
+.main-container .gallery {
+
+}
+.main-container div {
+	margin: 16px;
+	width: 500px;
+	max-width: calc(33% - 32px);
+	height: auto;
+	display: inline-block;
+	text-align: center;
+}
+.main-container img {
+	width: 100%;
+	height: auto;
+	background: #fff;
+}
+.overlay {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	background: #333;
+}
+
+@media only screen and (max-width: 760px) {
+	.main-container div {
+		margin: 16px auto;
+		max-width: 100%;
+		width: 90%;
+		height: auto;
+		display: block;
+	}
+
+
+}
+
+@media only screen and (min-width: 760px) {
+
+
+
+}
+
+@media only screen and (min-width: 1000px) {
+	
+}

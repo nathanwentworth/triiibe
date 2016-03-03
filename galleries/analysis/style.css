@@ -1,12 +1,14 @@
 .photo-container {
 	display: inline-block;
 	margin-left: auto;
+	width: 70%;
 }
 .photo-container img {
 	border-radius: 8px;
-	width: auto;
+	width: 100%;
 	height: auto;
-	max-height: 700px;
+	max-width: 1000px;
+	/*max-height: 700px;*/
 }
 .img-flex-sub {
 	align-items: center;
@@ -78,7 +80,7 @@
 		width: 90%;
 	}
 	.photo-container {
-		max-width: 90%;
+		width: 90%;
 		display: block;
 		margin: auto;
 	}
