@@ -155,10 +155,9 @@ header a.button-title {
 	display: inline-block;
 	float: left;
   text-align: center;
-  transform: rotate(-6deg);
+  transform: rotate(-6deg) translateY(6px);
   background: inherit;
   animation: sign 1s ease-out;
-  /*margin-top: 48px;*/
   margin-left: 1em;
   border: 3px solid inherit;
   border-radius: 6px;
@@ -225,9 +224,8 @@ p {
 	line-height: 160%;
 }
 p.blurb {
-	margin: auto;
+	margin: 18px auto;
 	text-align: center;
-	margin-bottom: 36px;
 	background: #fff;
 	border: 16px solid white;
 	border-radius: 8px;

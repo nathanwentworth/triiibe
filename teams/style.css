@@ -8,11 +8,14 @@
 	text-align: center;
 }
 .portrait-container {
+	background: #fff;
+	border: 16px solid #fff;
+	border-radius: 8px;
 	display: inline-block;
 	max-width: 256px;
 	width: 100%;
-	margin: 16px auto;
-	vertical-align: top; 
+	margin: 16px 8px;
+	vertical-align: top;
 }
 .portrait-container p {
 	text-align: center;
