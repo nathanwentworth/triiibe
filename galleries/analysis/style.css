@@ -7,8 +7,7 @@
 	border-radius: 8px;
 	width: 100%;
 	height: auto;
-	max-width: 1000px;
-	/*max-height: 700px;*/
+	margin-left: 32px;
 }
 .img-flex-sub {
 	align-items: center;
@@ -23,12 +22,10 @@
 	position: relative;
 	left: -32px;
 	display: inline-block;
-	width: 40%;
 }
 
-.main-container p {
+.text-content p {
 	margin: auto;
-	/*font-size: 1.4em;*/
 	text-align: justify;
 }
 
@@ -36,9 +33,6 @@
 	font-size: 1.7em;
 }
 
-.featherlight-content {
-	border-radius: 8px;
-}
 .featherlight p {
 	margin: 16px auto;
 	text-indent: 2em;
@@ -64,6 +58,11 @@
 
 
 @media only screen and (max-width: 760px) {
+
+
+}
+
+@media only screen and (max-width: 1000px) {
 	.main-container p {
 		padding: 0 32px;
 	}
@@ -89,15 +88,8 @@
 		width: auto;
 		max-width: 100%;
 		height: auto;
+		margin: 0;
 	}
-
-
-}
-
-@media only screen and (min-width: 760px) {
-
-
-
 }
 
 @media only screen and (min-width: 1000px) {
