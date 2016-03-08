@@ -56,7 +56,8 @@
     </header>
  -->
     <div class="full-top image-fixed" style="background-image:url('/triiibe/img/triiibe-fam/fam-47.jpg')">
-      <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="7.938 0.58 240.188 74.125" xml:space="preserve">
+      <div>
+      	<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="7.938 0.58 240.188 74.125" xml:space="preserve">
 				<path fill="none" id="stroke-1" stroke="#FFFFFF" stroke-width="5.5337" stroke-linecap="round" stroke-linejoin="round" d="M11.169,12.767c25.433-3.025,37.993-4.75,51.17-6.014c12.777-1.227,26.134-2.022,52.373-3.15"/>
 				<path fill="none" id="stroke-2" stroke="#FFFFFF" stroke-width="5.5337" stroke-linecap="round" stroke-linejoin="round" d="M51.029,71.411c0-16.41,7.177-47.801,11.311-64.659"/>
 				<path fill="none" id="stroke-3" stroke="#FFFFFF" stroke-width="5.5337" stroke-linecap="round" stroke-linejoin="round" d="M90.125,36.59c-0.178,8.526-1.985,24.588-1.985,24.588c2.596-8.094,24.129-28.101,24.129-17.409"/>
@@ -69,15 +70,18 @@
 				<line fill="none" id="stroke-10" stroke="#FFFFFF" stroke-width="5.5337" stroke-linecap="round" stroke-linejoin="round" x1="140.064" y1="32.773" x2="139.76" y2="36.59"/>
 				<line fill="none" id="stroke-11" stroke="#FFFFFF" stroke-width="5.5337" stroke-linecap="round" stroke-linejoin="round" x1="156.863" y1="32.773" x2="157.017" y2="36.59"/>
 				<line fill="none" id="stroke-12" stroke="#FFFFFF" stroke-width="5.5337" stroke-linecap="round" stroke-linejoin="round" x1="169.235" y1="32.773" x2="169.387" y2="36.59"/>
-			</svg>
-				<h1 style="font-family:sans-serif;font-weight:bold;font-size:6em;margin:0;">↓</h1>
+				</svg>
+				<h1 id='same-difference'>same difference</h1>
+			</div>
+				
+				<h1 id='arrow-down'>↓</h1>
 		</div>
 		<div class="main-container">
       <section class="full-width">
       <a href="/triiibe/galleries/analysis/">
       	<div class="image-fixed" style="background-image:url('/triiibe/img/triiibe-pm/IMG_3962.jpg')">
 	      	<div class="text-container">
-	      		<h1 style="font-family: 'Bevan', cursive;">What do they mean?</h1>
+	      		<h1>What do they mean?</h1>
 	      	</div>
     		</div>
     		</a>
@@ -86,7 +90,7 @@
       <a href="/triiibe/galleries/exhibit/">
       	<div class="image-fixed" style="background-image:url('/triiibe/img/triiibe-pm/IMG_5387hh.jpg')">
 	      	<div class="text-container">
-	      		<h1 style="font-family: 'Hammersmith One', sans-serif;">See the Exhibit</h1>
+	      		<h1>See the Exhibit</h1>
 	      	</div>
     		</div>
     		</a>
@@ -104,7 +108,7 @@
       <a href="/triiibe/video/">
       	<div class="image-fixed" style="background-image:url('/triiibe/img/other/mpv-shot0001.jpg')">
 	      	<div class="text-container">
-	      		<h1 style="font-family: 'Arvo', serif;">Watch Videos</h1>
+	      		<h1>Watch Videos</h1>
 	      	</div>
     		</div>
     		</a>
@@ -128,32 +132,32 @@
     	</div>
     </footer>
 
-      <script type="text/javascript">
-		// animate logo
-  	for (var i = 1; i <= 12; i++) {
-			var path = document.querySelector('#stroke-' + i);
-			var length = path.getTotalLength();
-			path.style.transition = path.style.WebkitTransition =
-			  'none';
-			path.style.strokeDasharray = length + ' ' + length;
-			path.style.strokeDashoffset = length;
-			path.getBoundingClientRect();
-			path.style.transition = path.style.WebkitTransition =
-			  'stroke-dashoffset 2s ease-in-out';
-			path.style.strokeDashoffset = '0';
-		}
-  </script>
+    <script type="text/javascript">
+			// animate logo
+			for (var i = 1; i <= 12; i++) {
+				var path = document.querySelector('#stroke-' + i);
+				var length = path.getTotalLength();
+				path.style.transition = path.style.WebkitTransition =
+				  'none';
+				path.style.strokeDasharray = length + ' ' + length;
+				path.style.strokeDashoffset = length;
+				path.getBoundingClientRect();
+				path.style.transition = path.style.WebkitTransition =
+				  'stroke-dashoffset 2s ease-in-out';
+				path.style.strokeDashoffset = '0';
+			}
+		</script>
 
 
 
 
-    <link href='https://fonts.googleapis.com/css?family=Rubik|Montserrat:700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Rubik' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Arvo' rel='stylesheet' type='text/css'>
 
 <!-- fonts to test!!! -->
-    <link href='https://fonts.googleapis.com/css?family=Bevan' rel='stylesheet' type='text/css'>
+<!--     <link href='https://fonts.googleapis.com/css?family=Bevan' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Hammersmith+One' rel='stylesheet' type='text/css'>
-
+ -->
 
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>

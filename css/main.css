@@ -30,16 +30,13 @@ html {
  * Customize the background color to match your design.
  */
 
-::-moz-selection {
-    background: #FD949C;
-    text-shadow: none;
-}
-
-::selection {
-    background: #FD949C;
-    text-shadow: none;
-}
-
+::-moz-selection { color:#F78536; text-shadow: none;}
+::selection { color:#F78536; text-shadow: none;}
+img::selection { background:#F78536; text-shadow: none;}
+/* ::-moz-selection { background: rgba(253, 148, 156, 1); text-shadow: none;}
+::selection { background: rgba(253, 148, 156, 0.996); text-shadow: none;}
+img::selection { background: rgba(253, 148, 156, 0.8); text-shadow: none;}
+ */
 /*
  * A better looking default horizontal rule
  */
@@ -192,15 +189,14 @@ nav ul li:hover ul.fallback {display:block;}
 
 /* .main-container themes */
 
-
 .main-container h1, h2, h3 {
 	font-family: 'Arvo', serif;
 	text-align: center;
 	margin: 1em auto;
 }
 
-.main-container h1 {font-size: 3em;}
-.main-container h2 {font-size: 2.1em;}
+.main-container h1 {font-size: 3.2em;}
+.main-container h2 {font-size: 2.2em;}
 .main-container h3 {font-size: 1.8em;}
 
 .main-container a:link, .main-container a:visited {color: #555555;}
@@ -226,7 +222,6 @@ p.indent {text-indent: 2em;}
 .main-container img {
 	border-radius: 8px;
 }
-
 
 /* footer themes */
 

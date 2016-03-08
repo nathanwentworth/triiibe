@@ -1,29 +1,29 @@
-.photo-container {
-	display: inline-block;
-	margin-left: auto;
-	width: 70%;
-}
-.photo-container img {
-	border-radius: 8px;
-	width: 100%;
-	height: auto;
-	margin-left: 32px;
-}
 .img-flex-sub {
 	align-items: center;
 	display: flex;
 	width: 100%;
-	margin: 32px auto;
+	margin: 16px auto;
+}
+.img-flex-sub:first-child {
+	margin-top: 0;
+}
+.photo-container {
+	display: inline-block;
+	margin-left: auto;
+	width: 75%;
+}
+.photo-container img {
+	width: 100%;
+	height: auto;
+	margin-left: 16px;
 }
 .text-content {
 	border-radius: 8px;
 	background: #fff;
 	border: 8px solid #fff;
-	position: relative;
-	left: -32px;
 	display: inline-block;
+	margin-right: 16px;
 }
-
 .text-content p {
 	margin: auto;
 	text-align: justify;
