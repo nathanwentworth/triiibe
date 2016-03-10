@@ -2,10 +2,6 @@
 	display: flex;
 	align-items: center;
 }
-.image-container {
-	width: 70%;
-	margin-left: auto;
-}
 .image-container img {
 	max-width: 1000px;
 	width: 100%;
@@ -17,8 +13,6 @@
 }
 .text-container {
 	display: inline-block;
-	position: relative;
-	left: -32px;
 	background: #fff;
 	border: 16px solid #fff;
 	border-radius: 8px;
@@ -73,10 +67,17 @@
 	.text-container {
 		display: inline-block;
 		position: relative;
-		left: -32px;
+		left: -16px;
 		background: #fff;
 		border: 16px solid #fff;
 		border-radius: 8px;
 	}
+	.image-container {
+		width: 100%;
+		margin-left: auto;
+		position: relative;
+		right: -16px;
+	}
+
 
 }

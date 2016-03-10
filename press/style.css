@@ -11,6 +11,9 @@
 	border: 16px solid #fff;
 	border-radius: 6px;
 }
+.main-container section h2 {
+	margin: .5em auto;
+}
 .interview {
 	margin: 64px auto;
 	background: #fff;

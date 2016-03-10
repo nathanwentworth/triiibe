@@ -1,52 +1,20 @@
-.main-container h1, .main-container h2 {
-	text-align: center;
+.main-container p {
+	background: #fff;
+	border: 16px solid #fff;
+	border-radius: 6px;
 }
-p {
-	margin: 32px auto;
-	width: 600px;
-	transition: .3s;
-}
-img {
+.main-container img {
 	display: block;
 	margin: auto;
-	width: 100%;
+	width: 90%;
 	max-width: 960px;
-}
-.half-width {
-	display: inline-block;
 }
 
 
 @media only screen and (min-width: 320px) and (max-width: 1000px) {
-	.under-photo {
-		margin: auto;
-	}
-	.half-width {
-		display: inline-block;
-		width: 100%;
-	}
-	.half-width p {
-		width: 90%;
-		margin: auto;
-	}
-	.half-width img {
-		margin-bottom: 32px;
-	}
+
 }
 
 @media only screen and (min-width: 1000px) {
-	.under-photo {
-		margin: auto;
-		display: flex;
-		align-items: start;
-		justify-content: center;
-		}
-	.half-width p {
-		margin: 32px;
-		width: 400px;
-	}
-	.half-width img {
-		width: 500px;
-		margin: 32px;
-	}
+
 }

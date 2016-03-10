@@ -63,9 +63,6 @@
 }
 
 @media only screen and (max-width: 1000px) {
-	.main-container p {
-		padding: 0 32px;
-	}
 	.img-flex-sub {
 		flex-direction: column;
 	}
