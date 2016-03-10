@@ -6,7 +6,6 @@
 }
 .main-container img {
 	display: block;
-	/* margin: auto; */
 	max-width: 100%;
 	width: auto;
 	height: auto;
@@ -35,6 +34,11 @@
 	.img-flex-sub {
 		flex-direction: column;
 	}
+	.img-flex-sub img {
+		margin-bottom: 32px;
+		width: 100%;
+		max-height: initial;
+	}
 }
 
 @media only screen and (min-width: 760px) {
@@ -44,11 +48,15 @@
 	.img-flex-sub:nth-child(2n - 1) img {
 		width: auto;
 		max-width: 50vw;
-		margin-left: auto;
 	}
 	.img-flex-sub:nth-child(2n) img {
 		width: auto;
 		max-width: 50vw;
+	}
+	.img-flex-sub:nth-child(2n - 1) a {
+		margin-left: auto;
+	}
+	.img-flex-sub:nth-child(2n) a {
 		margin-right: auto;
 	}
 	.img-flex-sub p {
