@@ -130,7 +130,7 @@ header {
   	/*lighter, dusty pink*/
   /* background: #DD697D; */
   	/*orange*/
-	/* background: #F78536; */
+	background: #F78536;
   	/*dark red*/
 	/* background: #890C02; */
 		/*apple orange*/
@@ -140,7 +140,7 @@ header {
 		/*muted dark purple*/
 	/* background: #6C5B7B; */
 		/*pink*/
-	background: #F67280;
+	/* background: #F67280; */
 }
 header a {
 	font-size: 1.4em;
