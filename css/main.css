@@ -118,23 +118,29 @@ a {
 header {
 	font-family: 'Montserrat', sans-serif;
   	/*blue-grey*/
-  /*background: #394146;*/
+  /* background: #394146; */
   	/*flat grey*/
-  /*background: #333;*/
+  /* background: #333; */
   	/*headband purple*/
-  /*background: #5A3439;*/
+  /* background: #5A3439; */
   	/*pink*/
-  /*background: #F9619F;*/
+  /* background: #F9619F; */
   	/*center sky blue*/
-  /*background: #5F74AA;*/
+  /* background: #5F74AA; */
   	/*lighter, dusty pink*/
-  /*background: #DD697D;*/
+  /* background: #DD697D; */
   	/*orange*/
-	background: #F78536;
+	/* background: #F78536; */
   	/*dark red*/
-	/*background: #890C02;*/
+	/* background: #890C02; */
 		/*apple orange*/
-	/*background: #F84F00;*/
+	/* background: #F84F00; */
+		/*muted dark blue*/
+	/* background: #355C7D; */
+		/*muted dark purple*/
+	/* background: #6C5B7B; */
+		/*pink*/
+	background: #F67280;
 }
 header a {
 	font-size: 1.4em;
