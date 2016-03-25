@@ -200,12 +200,12 @@ header a.button-title h1 {
 
 /* dropdown thing!!! from https://toddmotto.com/html5-and-jquery-super-simple-drop-down-nav/ */
 
-nav {display: inline-block;}
-nav ul {padding:0;margin: 0;text-align:center;z-index: 10000;}
-nav ul li {float:left;display:inline;}
+nav {display: inline-block;background:inherit;}
+nav ul {padding:0;margin: 0;text-align:center;z-index: 10000;background:inherit;}
+nav ul li {float:left;display:inline;background:inherit;}
 nav ul li:hover {}
 nav ul li a {display:block;padding:15px 25px;color:#444;}
-nav ul li ul {position:absolute;width:200px;background:#F78536;}
+nav ul li ul {position:absolute;width:200px;background:inherit;}
 nav ul li ul li {width:100%;}
 nav ul li ul li a {display:block;padding:15px 10px;color:#444;}
 nav ul li ul li:hover a {}
