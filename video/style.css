@@ -2,15 +2,17 @@
 	margin: 32px auto;
 	max-width: 90%;
 	height: auto;
-	background: #333;
-	color: #fff;
-	border: 16px solid #333;
+	background: #fff;
+	color: #222;
+	border: 16px solid #fff;
+	border-radius: 6px;
 }
 .sub-video {
 	max-width: 700px;
 	margin: auto;
 }
 video {
+	border-radius: 6px;
 	width: 100%;
 	height: auto;
 }
