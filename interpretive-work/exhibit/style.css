@@ -18,6 +18,14 @@
 .main-container img {
 	width: 100%;
 }
+video {
+	border-radius: 6px;
+	display: block;
+	margin: auto;
+	width: 90%;
+	max-width: 1920px;
+	height: auto;
+}
 
 @media only screen and (max-width: 760px) {
 	.main-container div {
