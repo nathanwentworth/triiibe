@@ -93,6 +93,9 @@ line {
 		transform: translateX(-50%) translateY(0);
 		width: 80%;
 	}
+	.text-container h1 {
+		font-size: 1em;
+	}
 	.image-fixed {
 		background-attachment: initial;
 	}
