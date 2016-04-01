@@ -71,6 +71,7 @@
 		background: #fff;
 		border: 16px solid #fff;
 		border-radius: 8px;
+		max-width: 600px;
 	}
 	.image-container {
 		width: 100%;
