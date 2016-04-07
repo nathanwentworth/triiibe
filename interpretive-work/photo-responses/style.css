@@ -1,7 +1,13 @@
 .img-flex-sub {
+	display: -webkit-flex;
+	display: -ms-flexbox;
 	display: flex;
-	flex-direction: row;
-	align-items: center;
+	-webkit-flex-direction: row;
+	    -ms-flex-direction: row;
+	        flex-direction: row;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
 	padding: 16px;
 }
 .main-container img {
@@ -9,7 +15,9 @@
 	max-width: 100%;
 	width: auto;
 	height: auto;
-	align-self: auto;
+	-webkit-align-self: auto;
+	    -ms-flex-item-align: auto;
+	        align-self: auto;
 	max-height: 80vh;
 }
 .img-flex-sub div {
@@ -18,7 +26,9 @@
 	border-radius: 8px;	
 }
 .img-flex-sub p {
-	flex-grow: 1;
+	-webkit-flex-grow: 1;
+	    -ms-flex-positive: 1;
+	        flex-grow: 1;
 	margin: auto;
 	width: 100%;
 	max-width: 700px;
@@ -32,7 +42,9 @@
 
 @media only screen and (min-width: 320px) and (max-width: 760px) {
 	.img-flex-sub {
-		flex-direction: column;
+		-webkit-flex-direction: column;
+		    -ms-flex-direction: column;
+		        flex-direction: column;
 	}
 	.img-flex-sub img {
 		margin-bottom: 32px;
@@ -43,7 +55,9 @@
 
 @media only screen and (min-width: 760px) {
 	.img-flex-sub:nth-child(2n) {
-		flex-direction: row-reverse;
+		-webkit-flex-direction: row-reverse;
+		    -ms-flex-direction: row-reverse;
+		        flex-direction: row-reverse;
 	}
 	.img-flex-sub:nth-child(2n - 1) img {
 		width: auto;
@@ -60,7 +74,9 @@
 		margin-right: auto;
 	}
 	.img-flex-sub p {
-		flex-grow: 1;
+		-webkit-flex-grow: 1;
+		    -ms-flex-positive: 1;
+		        flex-grow: 1;
 		width: calc(50vw - 64px);
 		padding: 16px;
 		text-align: justify;
