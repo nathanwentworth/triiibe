@@ -30,6 +30,16 @@
 	font-size: 4em;
 	animation: v-bounce 1s alternate infinite;
 	animation-timing-function: ease-out;
+	user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	-webkit-user-select: none;
+	cursor: s-resize;
+}
+#arrow-down a {
+	color: #fff;
+	text-decoration: none;
+	cursor: s-resize;
 }
 section {
 	width: 100%;
@@ -57,6 +67,8 @@ section a {
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
+	-webkit-transform: translateZ(0)
+	transform: translateX(0);
 }
 .text-container {
 	background: #fff;

@@ -20,6 +20,13 @@
 .text-container p {
 	margin: auto;
 	width: 100%;
+	padding: .5em 0;
+}
+.text-container p:first-child {
+	padding-top: 0;
+}
+.text-container p:last-child {
+	padding-bottom: 0;
 }
 
 @media only screen and (min-width: 320px) and (max-width: 760px) {

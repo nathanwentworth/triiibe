@@ -3,11 +3,12 @@
 	margin: auto;
 }
 .photo-container {
-	margin: 0 8px;
+	margin: 8px;
 	width: calc((100% / 3) - (64px / 3));
 	height: auto;
 	display: inline-block;
 	text-align: center;
+	vertical-align: top;
 }
 .photo-container:first-child {
 	margin-left: 16px;
@@ -18,13 +19,20 @@
 .main-container img {
 	width: 100%;
 }
-video {
+.photo-container span {
+	padding: 4px;
+	position: relative;
+	top: -2em;
+	background: #eee;
 	border-radius: 6px;
-	display: block;
-	margin: auto;
-	width: 90%;
-	max-width: 1920px;
-	height: auto;
+	opacity: 0;
+	transition: 0.3s;
+}
+.photo-container span a {
+	text-decoration: none;
+}
+.photo-container:hover span {
+	opacity: 1;
 }
 
 @media only screen and (max-width: 760px) {
@@ -35,13 +43,9 @@ video {
 		height: auto;
 		display: block;
 	}
-
-
 }
 
 @media only screen and (min-width: 760px) {
-
-
 
 }
 

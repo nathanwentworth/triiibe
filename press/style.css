@@ -2,11 +2,11 @@
 	text-align: center;
 }
 .main-container section {
-	vertical-align: top;
-	margin: 16px;
-	display: inline-block;
-	width: calc((100% / 3) - 32px);
-	max-width: 760px;
+	/* vertical-align: top; */
+	/* margin: 16px; */
+	/* display: inline-block; */
+	/* width: calc((100% / 3) - 32px); */
+	/* max-width: 760px; */
 	background: #fff;
 	border: 16px solid #fff;
 	border-radius: 6px;
@@ -16,6 +16,7 @@
 }
 .main-container section h2 {
 	margin: .5em auto;
+	font-size: 2em;
 }
 blockquote {
 	margin: auto;
@@ -27,10 +28,13 @@ blockquote {
 }
 .video {
 	position:relative;
+	height: 100%;
 }
 .video .ratio {
 	display: block;
 	width: 100%;
+}
+.ratio {
 	height: auto;
 }
 iframe {
