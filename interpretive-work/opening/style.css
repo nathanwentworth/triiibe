@@ -19,6 +19,9 @@
 .main-container img {
 	width: 100%;
 }
+.main-container img:hover {
+	cursor: zoom-in;
+}
 .photo-container span {
 	padding: 4px;
 	position: relative;
