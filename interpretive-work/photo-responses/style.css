@@ -20,6 +20,9 @@
 	        align-self: auto;
 	max-height: 80vh;
 }
+.main-container img:hover {
+	cursor: zoom-in;
+}
 .img-flex-sub div {
 	background: #fff;
 	border: 16px solid #fff;
