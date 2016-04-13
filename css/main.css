@@ -32,10 +32,6 @@ html {
 ::selection { color:#da2931; text-shadow: none;}
 img::-moz-selection { background:#da2931; text-shadow: none;}
 img::selection { background:#da2931; text-shadow: none;}
-/* ::-moz-selection { background: rgba(253, 148, 156, 1); text-shadow: none;}
-::selection { background: rgba(253, 148, 156, 0.996); text-shadow: none;}
-img::selection { background: rgba(253, 148, 156, 0.8); text-shadow: none;}
- */
 /*
  * A better looking default horizontal rule
  */
