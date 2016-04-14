@@ -10,15 +10,9 @@
    Base styles: opinionated defaults
    ========================================================================== */
 
-* {
-	box-sizing: border-box;
-}
+* {box-sizing: border-box;}
 
-html {
-    color: #222;
-    font-size: 16px;
-    line-height: 1.4;
-}
+html {color: #222;font-size: 16px;line-height: 1.4;}
 
 /*
  * Remove text-shadow in selection highlight:
@@ -28,22 +22,15 @@ html {
  * Customize the background color to match your design.
  */
 
-::-moz-selection { color:#da2931; text-shadow: none;}
-::selection { color:#da2931; text-shadow: none;}
-img::-moz-selection { background:#da2931; text-shadow: none;}
-img::selection { background:#da2931; text-shadow: none;}
+::-moz-selection{color:#da2931;text-shadow:none;}
+::selection{color:#da2931;text-shadow:none;}
+img::-moz-selection{background:#da2931;text-shadow:none;}
+img::selection{background:#da2931;text-shadow:none;}
 /*
  * A better looking default horizontal rule
  */
 
-hr {
-    display: block;
-    height: 1px;
-    border: 0;
-    border-top: 1px solid #ccc;
-    margin: 1em 0;
-    padding: 0;
-}
+hr {display:block;height:1px;border:0;border-top:1px solid #ccc;margin:1em 0;padding:0;}
 
 /*
  * Remove the gap between audio, canvas, iframes,
@@ -51,43 +38,25 @@ hr {
  * https://github.com/h5bp/html5-boilerplate/issues/440
  */
 
-audio,
-canvas,
-iframe,
-img,
-svg,
-video {
-    vertical-align: middle;
-}
+audio,canvas,iframe,img,svg,video{vertical-align: middle;}
 
 /*
  * Remove default fieldset styles.
  */
 
-fieldset {
-    border: 0;
-    margin: 0;
-    padding: 0;
-}
+fieldset {border: 0;margin: 0;padding: 0;}
 
 /*
  * Allow only vertical resizing of textareas.
  */
 
-textarea {
-    resize: vertical;
-}
+textarea {resize: vertical;}
 
 /* ==========================================================================
    Browser Upgrade Prompt
    ========================================================================== */
 
-.browserupgrade {
-    margin: 0.2em 0;
-    background: #ccc;
-    color: #000;
-    padding: 0.2em 0;
-}
+.browserupgrade {margin: 0.2em 0;background: #ccc;color: #000;padding: 0.2em 0;}
 
 /* ==========================================================================
    Author's custom styles
@@ -104,9 +73,7 @@ body, html {
 	padding: 0;
 	width: 100%;
 }
-a {
-	transition: 0.3s;
-}
+a {transition: 0.3s;}
 .vert-center {
 	display: block;
 	position: relative;
@@ -117,46 +84,7 @@ a {
 
 /* header and nav themes */
 
-header {
-	font-family: 'Montserrat', sans-serif;
-  	/*blue-grey*/
-  /* background: #394146; */
-  	/*flat grey*/
-  /* background: #333; */
-  	/*headband purple*/
-  /* background: #5A3439; */
-  	/*pink*/
-  /* background: #F9619F; */
-  	/*center sky blue*/
-  /* background: #5F74AA; */
-  	/*lighter, dusty pink*/
-  /* background: #DD697D; */
-  	/*orange*/
-	/* background: #da2931; */
-  	/*red 1*/
-	/* background: #da2931; */
-  	/*red 3*/
-	/* background: #CC102F; */
-  	/*red 5*/
-	/* background: #F04F4F; */
-  	/*red 6*/
-	background: #da2931;
-	/* background: #91010d; */
-	/* background: #ba0d1b; */
-	/* background: #4f0201; */
-  	/*red 7*/
-	/* background: #DF2A35; */
-  	/*dark red*/
-	/* background: #890C02; */
-		/*apple orange*/
-	/* background: #F84F00; */
-		/*muted dark blue*/
-	/* background: #355C7D; */
-		/*muted dark purple*/
-	/* background: #6C5B7B; */
-		/*pink*/
-	/* background: #F67280; */
-}
+header {background: #da2931;}
 header a {
 	font-size: 1.4em;
 	font-weight: lighter;
@@ -210,19 +138,9 @@ nav ul li ul li:hover a {}
 nav ul li ul.fallback {display:none;}
 nav ul li:hover ul.fallback {display:block;}
 
-.logos-header {
-	display: inline-block;
-	float: right;
-	margin-right: 16px;
-}
-.logos-header img {
-	height: 36px;
-	margin: 8px;
-}
-.logos-header svg {
-	height: 36px;
-	display: inline-block;
-}
+.logos-header {display: inline-block;float: right;margin-right: 16px;}
+.logos-header img {height: 36px;margin: 8px;}
+.logos-header svg {height: 36px;display: inline-block;}
 
 /* .main-container themes */
 
@@ -261,16 +179,8 @@ p.indent {text-indent: 2em;}
 	border-radius: 8px;
 }
 
-/* footer themes */
-
-footer {
-	width: 100%;
-	height: 200px;
-}
-footer div {
-	margin: 16px;
-}
-
+footer {width:100%;height:200px;}
+footer div {margin:16px;}
 
 /* featherlight universal themes */
 
