@@ -26,6 +26,7 @@ html {color: #222;font-size: 16px;line-height: 1.4;}
 ::selection{color:#da2931;text-shadow:none;}
 img::-moz-selection{background:#da2931;text-shadow:none;}
 img::selection{background:#da2931;text-shadow:none;}
+
 /*
  * A better looking default horizontal rule
  */

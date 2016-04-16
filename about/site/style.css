@@ -57,5 +57,16 @@ p:last-child {
 }
 
 @media only screen and (min-width: 1000px) {
+	.about {
+		max-width: 1200px;
+	}
+	.about p {
+		display: inline-block;
+		width:47%;
+		vertical-align: top;
+	}
+	.about p:first-child {
+		margin-right: 5%;
+	}
 
 }
