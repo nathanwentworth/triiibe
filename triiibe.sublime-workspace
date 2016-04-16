@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"trans",
+				"translateY()"
+			],
+			[
 				"jquer",
 				"jquery"
 			],
@@ -98,10 +102,6 @@
 			[
 				"animation",
 				"animation-delay"
-			],
-			[
-				"trans",
-				"translateX()"
 			],
 			[
 				"full",
@@ -294,34 +294,44 @@
 	"expanded_folders":
 	[
 		"/Users/nathan/Dropbox/web-files/triiibe",
-		"/Users/nathan/Dropbox/web-files/triiibe/about",
 		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work",
-		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/analysis",
-		"/Users/nathan/Dropbox/web-files/triiibe/press",
-		"/Users/nathan/Dropbox/web-files/triiibe/video"
+		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/art-in-bloom",
+		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/opening"
 	],
 	"file_history":
 	[
+		"/Users/nathan/Dropbox/web-files/triiibe/about/site/index.html",
+		"/Users/nathan/Dropbox/web-files/triiibe/css/main.css",
+		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/art-in-bloom/style.css",
+		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/opening/style.css",
+		"/Users/nathan/Dropbox/web-files/triiibe/about/site/style.css",
+		"/Users/nathan/Dropbox/web-files/triiibe/about/fam/index.html",
+		"/Users/nathan/Dropbox/web-files/triiibe/style.css",
+		"/Users/nathan/Dropbox/web-files/triiibe/press/index.html",
+		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/art-in-bloom/index.html",
+		"/Users/nathan/Dropbox/web-files/triiibe/index.html",
+		"/Users/nathan/Dropbox/web-files/triiibe/press/style.css",
+		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/opening/index.html",
+		"/Users/nathan/Dropbox/web-files/triiibe/404.html",
+		"/Users/nathan/Dropbox/web-files/triiibe/about/triiibe/index.html",
+		"/Users/nathan/Dropbox/web-files/triiibe/catalog/index.html",
+		"/Users/nathan/Dropbox/web-files/triiibe/featherlight-1.3.4/test/featherlight.html",
+		"/Users/nathan/Dropbox/web-files/triiibe/featherlight-1.3.4/test/featherlight_gallery.html",
+		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/interview/index.html",
+		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/photo-responses/index.html",
+		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/triplets/index.html",
+		"/Users/nathan/Dropbox/web-files/triiibe/video/index.html",
+		"/Users/nathan/Dropbox/web-files/triiibe/browserconfig.xml",
+		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/analysis/index.html",
+		"/Users/nathan/Dropbox/web-files/triiibe/js/main.js",
+		"/Users/nathan/Dropbox/web-files/triiibe/css/normalize.css",
 		"/Users/nathan/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/analysis/john-rezuke-royal-gala.html",
 		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/analysis/kim-tecce-pink-lady.html",
 		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/analysis/Abstinence-Eve-Anna-Farwell.html",
-		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/analysis/index.html",
-		"/Users/nathan/Dropbox/web-files/triiibe/press/index.html",
 		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/photo-responses/style.css",
-		"/Users/nathan/Dropbox/web-files/triiibe/about/site/index.html",
-		"/Users/nathan/Dropbox/web-files/triiibe/about/fam/index.html",
-		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/interview/index.html",
-		"/Users/nathan/Dropbox/web-files/triiibe/catalog/index.html",
-		"/Users/nathan/Dropbox/web-files/triiibe/about/triiibe/index.html",
-		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/triplets/index.html",
-		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/photo-responses/index.html",
-		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/opening/style.css",
-		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/opening/index.html",
 		"/Users/nathan/Dropbox/web-files/triiibe/template.html",
-		"/Users/nathan/Dropbox/web-files/triiibe/video/index.html",
 		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/triplets/style.css",
-		"/Users/nathan/Dropbox/web-files/triiibe/style.css",
 		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/analysis/myspace-lindsey-mcgann.html",
 		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/analysis/right-to-life-sara-prunier.html",
 		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/analysis/three-mil-plastic-kim-tecce.html",
@@ -329,18 +339,11 @@
 		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/analysis/stephanie-saba-mcintosh.html",
 		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/analysis/jairo-hernandez-miss.html",
 		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/analysis/jacob-hazel-homeland.html",
-		"/Users/nathan/Dropbox/web-files/triiibe/index.html",
 		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/interview/style.css",
 		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/analysis/style.css",
-		"/Users/nathan/Dropbox/web-files/triiibe/press/style.css",
 		"/Users/nathan/Dropbox/web-files/triiibe/video/style.css",
 		"/Users/nathan/Dropbox/web-files/triiibe/about/triiibe/style.css",
-		"/Users/nathan/Dropbox/web-files/triiibe/about/site/style.css",
 		"/Users/nathan/Dropbox/web-files/triiibe/about/fam/style.css",
-		"/Users/nathan/Dropbox/web-files/triiibe/css/main.css",
-		"/Users/nathan/Dropbox/web-files/triiibe/404.html",
-		"/Users/nathan/Dropbox/web-files/triiibe/featherlight-1.3.4/test/featherlight_gallery.html",
-		"/Users/nathan/Dropbox/web-files/triiibe/featherlight-1.3.4/test/featherlight.html",
 		"/Users/nathan/Dropbox/web-files/triiibe/js/jquery.grid-a-licious.min.js",
 		"/Users/nathan/Downloads/jquery.grid-a-licious.min.js",
 		"/Users/nathan/Dropbox/web-files/triiibe/css/blog.css",
@@ -369,7 +372,6 @@
 		"/Users/nathan/Dropbox/web-files/triiibe/about/style.css",
 		"/Users/nathan/Dropbox/web-files/triiibe/about/index.html",
 		"/Users/nathan/Dropbox/web-files/triiibe/galleries/exhibit/style.css",
-		"/Users/nathan/Dropbox/web-files/triiibe/js/main.js",
 		"/Users/nathan/Dropbox/web-files/triiibe/teams/style.css",
 		"/Users/nathan/Dropbox/web-files/triiibe/galleries/analysis/stephanie-saba-mcintosh.html",
 		"/Users/nathan/Dropbox/web-files/triiibe/galleries/analysis/jairo-hernandez-miss.html",
@@ -435,6 +437,80 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"<a href=\"/about/site/#Lindsey-McGann\">Lindsey McGann</a>",
+			"<a href=\"/about/site/#Sara-Prunier\">Sara Prunier</a>",
+			"<a href=\"/about/site/#Erin-Murphy\">Erin Murphy</a>",
+			"<a href=\"/about/site/#Haylie-Hier\">Haylie Hier</a>",
+			"Gallery Kayafas",
+			"TRIIIBE: same difference",
+			"TRIIIIBE: same difference",
+			"img",
+			"aib-",
+			"aib-.",
+			"aib-",
+			"/art-in-bloom/",
+			"viewerLM",
+			"Triiibeart-in-bloomsp0",
+			"Triiibeart-in-bloomsp_16",
+			"Triiibeart-in-bloomsp_15",
+			"Triiibeart-in-bloomsp_14",
+			"Triiibeart-in-bloomsp_13",
+			"Triiibeart-in-bloomsp_11",
+			"Triiibeart-in-bloomsp_5",
+			"roomLM",
+			"readerLM",
+			"maskLM",
+			"IMG_5387hh",
+			"gallery2LM",
+			"clothesLM",
+			"_MG_3161EM",
+			"_MG_3116EM",
+			"Triiibeart-in-bloomsp_10",
+			"Triiibeart-in-bloomsp_4",
+			"Triiibeart-in-bloomsp_3",
+			"Triiibeart-in-bloomsp_6",
+			"IMG_5367hh",
+			"IMG_5324hh",
+			"triiibe12em",
+			"IMG_5447hh",
+			"IMG_5387hh",
+			"art-in-bloom",
+			"triiibe-pm",
+			"opening",
+			"<a href=\"/img/",
+			"</div><div class=\"item\">",
+			"photo-container",
+			" class=\"photo-container\"",
+			"	        </div>\n        	<div>",
+			"        	</div>\n        	<div>",
+			"triiibe-pm",
+			"</div>\n        		<div class=\"photo-container\">",
+			"Triiibeopeningsp_15",
+			"Triiibeopeningsp_10",
+			"Triiibeopeningsp_4",
+			"Triiibeopeningsp_3",
+			"Triiibeopeningsp_10",
+			"Triiibeopeningsp_4",
+			"Triiibeopeningsp_3",
+			"Triiibeopeningsp_10",
+			"Triiibeopeningsp_4",
+			"Triiibeopeningsp_3",
+			"Triiibeopeningsp_10",
+			"Triiibeopeningsp_4",
+			"Triiibeopeningsp_3",
+			"</div><div class=\"photo-container\">",
+			"Triiibeopeningsp_10",
+			" ",
+			"\n	",
+			"mont",
+			"font-family",
+			"  ",
+			"\n        ",
+			"\n            ",
+			"<link rel=\"apple-touch-icon\" sizes=\"57x57\" href=\"/apple-icon-57x57.png\">\n<link rel=\"apple-touch-icon\" sizes=\"60x60\" href=\"/apple-icon-60x60.png\">\n<link rel=\"apple-touch-icon\" sizes=\"72x72\" href=\"/apple-icon-72x72.png\">\n<link rel=\"apple-touch-icon\" sizes=\"76x76\" href=\"/apple-icon-76x76.png\">\n<link rel=\"apple-touch-icon\" sizes=\"114x114\" href=\"/apple-icon-114x114.png\">\n<link rel=\"apple-touch-icon\" sizes=\"120x120\" href=\"/apple-icon-120x120.png\">\n<link rel=\"apple-touch-icon\" sizes=\"144x144\" href=\"/apple-icon-144x144.png\">\n<link rel=\"apple-touch-icon\" sizes=\"152x152\" href=\"/apple-icon-152x152.png\">\n<link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"/apple-icon-180x180.png\">\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\"  href=\"/android-icon-192x192.png\">\n<link rel=\"icon\" type=\"image/png\" sizes=\"32x32\" href=\"/favicon-32x32.png\">\n<link rel=\"icon\" type=\"image/png\" sizes=\"96x96\" href=\"/favicon-96x96.png\">\n<link rel=\"icon\" type=\"image/png\" sizes=\"16x16\" href=\"/favicon-16x16.png\">\n<link rel=\"manifest\" href=\"/manifest.json\">\n<meta name=\"msapplication-TileColor\" content=\"#da2931\">\n<meta name=\"msapplication-TileImage\" content=\"/ms-icon-144x144.png\">\n<meta name=\"theme-color\" content=\"#da2931\">",
+			"\"/",
+			"src=\"/",
+			"<a href=\"#\">@twitter</a>\n  								<a href=\"#\">website</a>\n  								<a href=\"#\">email</a>",
 			"three mil ",
 			"myspace",
 			"pink",
@@ -488,81 +564,7 @@
 			"<a href=\"/triiibe/interpretive-work/inspired-by/\">Student Photo Responses</a>",
 			"<a href=\"/triiibe/interpretive-work/inspired-by/\">Photography Responses</a>",
 			"<a href=\"/triiibe/interpretive-work/analysis/\">Interpreting the Images</a>",
-			"<a href=\"/triiibe/interpretive-work/interview/\">Interview with Triiibe</a>",
-			"<a href=\"/triiibe/about/triiibe/\">About Triiibe</a>",
-			"role in team",
-			"/interpretive-work/exhibit/",
-			"BK-GIRL",
-			"<div style=\"background",
-			"<img src=\"/triiibe/img/headshots/",
-			"<img src",
-			"insp/BK-GIRL.jpg",
-			"/triiibe/galleries/",
-			"<li><a href=\"/triiibe/galleries/analysis/\">Interpreting the Images</a></li>",
-			"Student Work ▼",
-			"vertical",
-			"h1",
-			"style",
-			"fam-logo.png",
-			"        <header>\n        	<a href=\"/triiibe/\" class=\"button-title\">\n        		<!-- <h1>Fitchburg Art Museum presents</h1> -->\n\n  <svg version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" x=\"0px\" y=\"0px\" viewBox=\"7.938 0.58 240.188 74.125\" xml:space=\"preserve\">\n		<path fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"5.5337\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M11.169,12.767c25.433-3.025,37.993-4.75,51.17-6.014c12.777-1.227,26.134-2.022,52.373-3.15\"/>\n		<path fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"5.5337\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M51.029,71.411c0-16.41,7.177-47.801,11.311-64.659\"/>\n		<path fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"5.5337\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M90.125,36.59c-0.178,8.526-1.985,24.588-1.985,24.588c2.596-8.094,24.129-28.101,24.129-17.409\"/>\n		<path fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"5.5337\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M131.208,64.692c0,0,1.526-14.355,4.581-19.397\"/>\n		<path fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"5.5337\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M148.77,64.692c0,0,1.604-14.968,3.972-19.397\"/>\n		<path fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"5.5337\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M164.805,45.295c0,0-4.275,9.7-3.512,19.396\"/>\n		<path fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"5.5337\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M191.778,12.843c0,9.947-8.724,39.631-8.724,39.631c5.499-7.561,17.976-5.204,18.406,2.29c0.306,5.348-11.435,8.282-17.414,8.323c-2.308,0.018-3.13-3.359,0.611-4.505\"/>\n		<path fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"5.5337\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M244.831,70.954\"/>\n		<path fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"5.5337\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M211.079,57.13c13.135-1.297,26.534-6.928,21.84-9.39c-15.426-8.096-40.166,28.938,11.912,23.212\"/>\n		<line fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"5.5337\" stroke-linecap=\"round\" stroke-linejoin=\"round\" x1=\"140.064\" y1=\"32.773\" x2=\"139.76\" y2=\"36.59\"/>\n		<line fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"5.5337\" stroke-linecap=\"round\" stroke-linejoin=\"round\" x1=\"156.863\" y1=\"32.773\" x2=\"157.017\" y2=\"36.59\"/>\n		<line fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"5.5337\" stroke-linecap=\"round\" stroke-linejoin=\"round\" x1=\"169.235\" y1=\"32.773\" x2=\"169.387\" y2=\"36.59\"/>\n	</svg>\n						<h1>same difference</h1>\n					</a>\n\n        	<nav>\n					  <ul>\n					    <li>\n					    	<a href=\"#\">About ▼</a>\n						      <ul class=\"fallback\">\n					        <li><a href=\"/triiibe/about/triiibe/\">About Triiibe</a></li>\n					        <li><a href=\"/triiibe/about/fam/\">About FAM</a></li>\n					      </ul>\n\n					    </li>\n					    <li>\n					      <a href=\"#\">Galleries ▼</a>\n					      <ul class=\"fallback\">\n					        <li><a href=\"/triiibe/galleries/exhibit/\">See the Exhibit</a></li>\n					        <li><a href=\"/triiibe/galleries/inspired-by/\">Inspired by Triiibe</a></li>\n					        <li><a href=\"/triiibe/galleries/analysis/\">What do they mean?</a></li>\n					      </ul>\n					    </li>\n					    <li>\n					      <a href=\"#\">Press ▼</a>\n					      <ul class=\"fallback\">\n					        <li><a href=\"/triiibe/press/interview/\">Interview with Triiibe</a></li>\n					        <li><a href=\"/triiibe/press/talk/\">Triiibe Talk</a></li>\n					      </ul>\n					    </li>\n					    <li><a href=\"/triiibe/teams/\">Meet the Teams</a></li>\n					    <li><a href=\"/triiibe/video/\">Video</a></li>\n					    <li><a href=\"/triiibe/catalog/\">Catalog</a></li>\n					  </ul>\n					</nav>\n        </header>\n",
-			"<p>",
-			"<div class=\"person-container\">\n  							<img src=\"/triiibe/img/insp/BK-GIRL.jpg\">\n  								<div>\n  								<h3>person name</h3>\n  								<h4>role in team</h4>\n  								<a href=\"#\">@twitter</a>\n  								<a href=\"#\">website</a>\n  								<a href=\"#\">email</a>\n  								</div>\n  						</div>",
-			"<h3>person name</h3>",
-			"  								<p>\n  									Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n  								</p>\n",
-			"<img src=\"#\">",
-			"<h3>person name</h3>\n  							<p>\n  								Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n  							</p>",
-			"    	<a href=\"#\"",
-			"    	<a href=\"#\">",
-			"    	<a href=",
-			"a href=\"#\"",
-			"data-featherlight",
-			"<img",
-			"255, 127, 127",
-			"    <link href='https://fonts.googleapis.com/css?family=Rubik|Montserrat:700' rel='stylesheet' type='text/css'>\n",
-			"<div><div class=\"photo-container\">",
-			"<div class=\"photo-container\">",
-			"<div class=",
-			"</p>",
-			"<div><a href=",
-			".full-width",
-			"See the Opening",
-			"/triiibe/galleries/opening/",
-			"<li><a href=\"/triiibe/about/exhibit/\">About the Exhibit</a></li>\n					        ",
-			"05",
-			"        <link rel=\"stylesheet\" type=\"text/css\" href=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css\">\n",
-			"100px",
-			"src=\"\">",
-			"portrait",
-			"<link href='https://fonts.googleapis.com/css?family=Righteous' rel='stylesheet' type='text/css'>",
-			"    <link href='https://fonts.googleapis.com/css?family=Coming+Soon' rel='stylesheet' type='text/css'>\n",
-			"    <link href='https://fonts.googleapis.com/css?family=Rubik|Montserrat:700' rel='stylesheet' type='text/css'>\n",
-			"src=\"js/vendor/modernizr-2.8.3.min.js\">",
-			"main-container",
-			"href",
-			"fill=\"none\"",
-			"<div style=",
-			"	        	<svg version=\"1.1\" id=\"Layer_1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" x=\"0px\" y=\"0px\"\n							 viewBox=\"0 0 256 75.16\" enable-background=\"new 0 0 256 75.16\" xml:space=\"preserve\">\n						<g>\n							<path fill=\"none\" stroke=\"#fff\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M0.5,10.5\n								c27.756-3.301,41.462-5.183,55.843-6.563C70.287,2.598,84.865,1.73,113.5,0.5\"/>\n							<path fill=\"none\" stroke=\"#fff\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M44,74.5\n								c0-17.909,7.833-52.166,12.343-70.563\"/>\n							<path fill=\"none\" stroke=\"#fff\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M86.666,36.5\n								C86.471,45.805,84.5,63.333,84.5,63.333c2.833-8.833,26.333-30.667,26.333-19\"/>\n							<path fill=\"none\" stroke=\"#fff\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M131.5,67.167c0,0,1.667-15.667,5-21.167\"/>\n							<path fill=\"none\" stroke=\"#fff\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M150.667,67.167\n								c0,0,1.75-16.333,4.333-21.167\"/>\n							<path fill=\"none\" stroke=\"#fff\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M168.167,46c0,0-4.667,10.584-3.834,21.167\"\n								/>\n							<path fill=\"none\" stroke=\"#fff\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M197.603,10.584\n								c0,10.854-9.52,43.249-9.52,43.249c6-8.25,19.617-5.678,20.087,2.501c0.335,5.833-12.479,9.037-19.003,9.083\n								c-2.518,0.018-3.417-3.667,0.666-4.917\"/>\n							<g>\n								<path fill=\"none\" d=\"M255.5,74\"/>\n							</g>\n							<path fill=\"none\" stroke=\"#fff\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M218.666,58.917\n								C233,57.5,247.625,51.356,242.5,48.667c-16.834-8.833-43.834,31.583,13,25.333\"/>\n							\n								<line fill=\"none\" stroke=\"#fff\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\" x1=\"141.167\" y1=\"32.334\" x2=\"140.833\" y2=\"36.5\"/>\n							\n								<line fill=\"none\" stroke=\"#fff\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\" x1=\"159.5\" y1=\"32.334\" x2=\"159.667\" y2=\"36.5\"/>\n							<line fill=\"none\" stroke=\"#fff\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\" x1=\"173\" y1=\"32.334\" x2=\"173.167\" y2=\"36.5\"/>\n						</g>\n						</svg>\n",
-			"fill=\"none\"",
-			"stroke-width=\"0.9935\"",
-			"fill=\"none\"",
-			"0",
-			"path",
-			"90px",
-			"fill=\"none\"",
-			"50px",
-			"145px",
-			"h2",
-			"div",
-			"background:url",
-			"url('/triiibe/img/triiibe-pm/IMG_3962.jpg')",
-			"background:url",
-			"<img ",
-			"background-position: center",
-			"main-container",
-			"text-dec",
-			"525252",
-			"#3E3E3E",
-			"#3E3E3E;"
+			"<a href=\"/triiibe/interpretive-work/interview/\">Interview with Triiibe</a>"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -570,6 +572,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"<link rel=\"apple-touch-icon\" sizes=\"57x57\" href=\"/icns/apple-icon-57x57.png\">\n<link rel=\"apple-touch-icon\" sizes=\"60x60\" href=\"/icns/apple-icon-60x60.png\">\n<link rel=\"apple-touch-icon\" sizes=\"72x72\" href=\"/icns/apple-icon-72x72.png\">\n<link rel=\"apple-touch-icon\" sizes=\"76x76\" href=\"/icns/apple-icon-76x76.png\">\n<link rel=\"apple-touch-icon\" sizes=\"114x114\" href=\"/icns/apple-icon-114x114.png\">\n<link rel=\"apple-touch-icon\" sizes=\"120x120\" href=\"/icns/apple-icon-120x120.png\">\n<link rel=\"apple-touch-icon\" sizes=\"144x144\" href=\"/icns/apple-icon-144x144.png\">\n<link rel=\"apple-touch-icon\" sizes=\"152x152\" href=\"/icns/apple-icon-152x152.png\">\n<link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"/icns/apple-icon-180x180.png\">\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\"  href=\"/icns/android-icon-192x192.png\">\n<link rel=\"icon\" type=\"image/png\" sizes=\"32x32\" href=\"/icns/favicon-32x32.png\">\n<link rel=\"icon\" type=\"image/png\" sizes=\"96x96\" href=\"/icns/favicon-96x96.png\">\n<link rel=\"icon\" type=\"image/png\" sizes=\"16x16\" href=\"/icns/favicon-16x16.png\">\n<link rel=\"manifest\" href=\"/icns/manifest.json\">\n<meta name=\"msapplication-TileColor\" content=\"#da2931\">\n<meta name=\"msapplication-TileImage\" content=\"/icns/ms-icon-144x144.png\">\n<meta name=\"theme-color\" content=\"#da2931\">",
 			"Catalogue",
 			"",
 			"<meta charset=\"utf-8\">\n<link rel=\"apple-touch-icon\" sizes=\"57x57\" href=\"/apple-icon-57x57.png\">\n<link rel=\"apple-touch-icon\" sizes=\"60x60\" href=\"/apple-icon-60x60.png\">\n<link rel=\"apple-touch-icon\" sizes=\"72x72\" href=\"/apple-icon-72x72.png\">\n<link rel=\"apple-touch-icon\" sizes=\"76x76\" href=\"/apple-icon-76x76.png\">\n<link rel=\"apple-touch-icon\" sizes=\"114x114\" href=\"/apple-icon-114x114.png\">\n<link rel=\"apple-touch-icon\" sizes=\"120x120\" href=\"/apple-icon-120x120.png\">\n<link rel=\"apple-touch-icon\" sizes=\"144x144\" href=\"/apple-icon-144x144.png\">\n<link rel=\"apple-touch-icon\" sizes=\"152x152\" href=\"/apple-icon-152x152.png\">\n<link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"/apple-icon-180x180.png\">\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\"  href=\"/android-icon-192x192.png\">\n<link rel=\"icon\" type=\"image/png\" sizes=\"32x32\" href=\"/favicon-32x32.png\">\n<link rel=\"icon\" type=\"image/png\" sizes=\"96x96\" href=\"/favicon-96x96.png\">\n<link rel=\"icon\" type=\"image/png\" sizes=\"16x16\" href=\"/favicon-16x16.png\">\n<link rel=\"manifest\" href=\"/manifest.json\">\n<meta name=\"msapplication-TileColor\" content=\"#da2931\">\n<meta name=\"msapplication-TileImage\" content=\"/ms-icon-144x144.png\">\n<meta name=\"theme-color\" content=\"#da2931\">",
@@ -675,8 +678,48 @@
 		"selected_items":
 		[
 			[
+				"site",
+				"about/site/index.html"
+			],
+			[
 				"press",
 				"press/index.html"
+			],
+			[
+				"artin",
+				"interpretive-work/art-in-bloom/index.html"
+			],
+			[
+				"sitecss",
+				"about/site/style.css"
+			],
+			[
+				"fam",
+				"about/fam/index.html"
+			],
+			[
+				"main",
+				"css/main.css"
+			],
+			[
+				"openingcss",
+				"interpretive-work/opening/style.css"
+			],
+			[
+				"presscss",
+				"press/style.css"
+			],
+			[
+				"opening",
+				"interpretive-work/opening/index.html"
+			],
+			[
+				"style",
+				"style.css"
+			],
+			[
+				"m",
+				"js/main.js"
 			],
 			[
 				"triiibe",
@@ -689,10 +732,6 @@
 			[
 				"openin",
 				"interpretive-work/opening/style.css"
-			],
-			[
-				"opening",
-				"interpretive-work/opening/index.html"
 			],
 			[
 				"kimte",
@@ -729,18 +768,6 @@
 			[
 				"anna",
 				"interpretive-work/analysis/Abstinence-Eve-Anna-Farwell.html"
-			],
-			[
-				"site",
-				"about/site/index.html"
-			],
-			[
-				"main",
-				"css/main.css"
-			],
-			[
-				"presscss",
-				"press/style.css"
 			],
 			[
 				"gala",
@@ -795,10 +822,6 @@
 				"interpretive-work/analysis/Abstinence-Eve-Anna-Farwell.html"
 			],
 			[
-				"fam",
-				"about/fam/style.css"
-			],
-			[
 				"respons",
 				"interpretive-work/photo-responses/index.html"
 			],
@@ -821,10 +844,6 @@
 			[
 				"reponse",
 				"interpretive-work/photo-responses/index.html"
-			],
-			[
-				"style",
-				"style.css"
 			],
 			[
 				"catalo",
@@ -881,10 +900,6 @@
 			[
 				"inspir",
 				"galleries/inspired-by/style.css"
-			],
-			[
-				"m",
-				"js/main.js"
 			],
 			[
 				"analysis-2",
@@ -963,7 +978,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 201.0,
+	"side_bar_width": 231.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
