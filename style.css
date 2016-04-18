@@ -153,6 +153,16 @@ line {
 	}
 }
 
+@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:landscape) {
+	.image-fixed {
+		background-attachment: initial;
+	}
+	.full-top {
+		background-attachment: initial;
+	}
+
+}
+
 @keyframes pop-in {
 	0% {
 		opacity: 0;
