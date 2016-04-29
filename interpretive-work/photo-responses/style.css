@@ -43,7 +43,7 @@
 
 
 
-@media only screen and (min-width: 320px) and (max-width: 760px) {
+@media only screen and (min-width: 320px) and (max-width: 1000px) {
 	.img-flex-sub {
 		-webkit-flex-direction: column;
 		    -ms-flex-direction: column;
@@ -56,7 +56,7 @@
 	}
 }
 
-@media only screen and (min-width: 760px) {
+@media only screen and (min-width: 1000px) {
 	.img-flex-sub:nth-child(2n) {
 		-webkit-flex-direction: row-reverse;
 		    -ms-flex-direction: row-reverse;
