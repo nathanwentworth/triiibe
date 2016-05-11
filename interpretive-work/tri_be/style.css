@@ -1,0 +1,26 @@
+div.main-container {
+  text-align: center;
+}
+div.main-container div {
+  max-width: 90%;
+  margin: auto;
+  padding: 2rem;
+  display: inline-block;
+  margin-bottom: 64px;
+  background: #fff;
+  text-align: left;
+  border-radius: 6px;
+}
+.main-container h1 {
+  margin-bottom: 0;
+}
+.main-container h2 {
+  margin-top: 16px;
+}
+.main-container h3 {
+  text-align: left;
+  max-width: 700px;
+}
+.main-container p {
+  width: 100%;
+}
