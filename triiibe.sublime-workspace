@@ -216,34 +216,10 @@
 	"buffers":
 	[
 		{
-			"file": "video/index.html",
+			"file": "interpretive-work/analysis/three-mil-plastic-kim-tecce.html",
 			"settings":
 			{
-				"buffer_size": 7752,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "interpretive-work/art-in-bloom/index.html",
-			"settings":
-			{
-				"buffer_size": 13328,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "interpretive-work/one-in-a-million/index.html",
-			"settings":
-			{
-				"buffer_size": 15639,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "about/fam/index.html",
-			"settings":
-			{
-				"buffer_size": 9014,
+				"buffer_size": 4652,
 				"line_ending": "Unix"
 			}
 		},
@@ -251,7 +227,7 @@
 			"file": "about/triiibe/index.html",
 			"settings":
 			{
-				"buffer_size": 9905,
+				"buffer_size": 9914,
 				"line_ending": "Unix"
 			}
 		},
@@ -259,15 +235,7 @@
 			"file": "catalog/index.html",
 			"settings":
 			{
-				"buffer_size": 8304,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "catalog/style.css",
-			"settings":
-			{
-				"buffer_size": 200,
+				"buffer_size": 8313,
 				"line_ending": "Unix"
 			}
 		},
@@ -275,7 +243,7 @@
 			"file": "press/index.html",
 			"settings":
 			{
-				"buffer_size": 10984,
+				"buffer_size": 10993,
 				"line_ending": "Unix"
 			}
 		},
@@ -283,39 +251,15 @@
 			"file": "about/site/index.html",
 			"settings":
 			{
-				"buffer_size": 18476,
+				"buffer_size": 18485,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "interpretive-work/opening/index.html",
+			"file": "video/index.html",
 			"settings":
 			{
-				"buffer_size": 14736,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "interpretive-work/photo-responses/index.html",
-			"settings":
-			{
-				"buffer_size": 26726,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "interpretive-work/q-a/index.html",
-			"settings":
-			{
-				"buffer_size": 16945,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "interpretive-work/tri_be/index.html",
-			"settings":
-			{
-				"buffer_size": 14088,
+				"buffer_size": 7761,
 				"line_ending": "Unix"
 			}
 		},
@@ -323,7 +267,71 @@
 			"file": "interpretive-work/analysis/index.html",
 			"settings":
 			{
-				"buffer_size": 18629,
+				"buffer_size": 18638,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "interpretive-work/art-in-bloom/index.html",
+			"settings":
+			{
+				"buffer_size": 13337,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "interpretive-work/interview/index.html",
+			"settings":
+			{
+				"buffer_size": 7232,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "interpretive-work/one-in-a-million/index.html",
+			"settings":
+			{
+				"buffer_size": 15648,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "interpretive-work/opening/index.html",
+			"settings":
+			{
+				"buffer_size": 14745,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "interpretive-work/photo-responses/index.html",
+			"settings":
+			{
+				"buffer_size": 26756,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "interpretive-work/q-a/index.html",
+			"settings":
+			{
+				"buffer_size": 16954,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "interpretive-work/tri_be/index.html",
+			"settings":
+			{
+				"buffer_size": 14097,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "about/fam/index.html",
+			"settings":
+			{
+				"buffer_size": 9048,
 				"line_ending": "Unix"
 			}
 		}
@@ -418,41 +426,47 @@
 	"expanded_folders":
 	[
 		"/Users/nathan/Dropbox/web-files/triiibe",
-		"/Users/nathan/Dropbox/web-files/triiibe/about",
-		"/Users/nathan/Dropbox/web-files/triiibe/about/triiibe",
-		"/Users/nathan/Dropbox/web-files/triiibe/catalog",
-		"/Users/nathan/Dropbox/web-files/triiibe/video"
+		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work",
+		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/analysis"
 	],
 	"file_history":
 	[
-		"/Users/nathan/Dropbox/web-files/triiibe/about/site/index.html",
-		"/Users/nathan/Dropbox/web-files/triiibe/video/style.css",
-		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/one-in-a-million/index.html",
-		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/interview/index.html",
-		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/art-in-bloom/index.html",
+		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/analysis/myspace-lindsey-mcgann.html",
+		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/analysis/right-to-life-sara-prunier.html",
+		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/analysis/right-to-life-kelsey-kunigonis.html",
+		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/analysis/golden-delicious-kevin-fitzmaurice.html",
+		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/analysis/jairo-hernandez-miss.html",
+		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/analysis/stephanie-saba-mcintosh.html",
+		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/analysis/john-rezuke-royal-gala.html",
+		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/analysis/jacob-hazel-homeland.html",
 		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/analysis/index.html",
-		"/Users/nathan/Dropbox/web-files/triiibe/catalog/index.html",
-		"/Users/nathan/Dropbox/web-files/triiibe/about/triiibe/index.html",
-		"/Users/nathan/Dropbox/web-files/triiibe/about/fam/index.html",
+		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/tri_be/index.html",
 		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/q-a/index.html",
-		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/photo-responses/index.html",
+		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/analysis/Abstinence-Eve-Anna-Farwell.html",
+		"/Users/nathan/Dropbox/web-files/triiibe/video/index.html",
+		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/art-in-bloom/index.html",
+		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/one-in-a-million/index.html",
+		"/Users/nathan/Dropbox/web-files/triiibe/about/fam/index.html",
+		"/Users/nathan/Dropbox/web-files/triiibe/about/triiibe/index.html",
+		"/Users/nathan/Dropbox/web-files/triiibe/catalog/index.html",
+		"/Users/nathan/Dropbox/web-files/triiibe/catalog/style.css",
+		"/Users/nathan/Dropbox/web-files/triiibe/press/index.html",
+		"/Users/nathan/Dropbox/web-files/triiibe/about/site/index.html",
 		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/opening/index.html",
+		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/photo-responses/index.html",
+		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/analysis/compatibility-quiz-jackie-brown.html",
+		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/art-in-bloom/aib-article.html",
+		"/Users/nathan/Dropbox/web-files/triiibe/video/style.css",
+		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/interview/index.html",
 		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/one-in-a-million/style.css",
 		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/q-a/style.css",
-		"/Users/nathan/Dropbox/web-files/triiibe/video/index.html",
-		"/Users/nathan/Dropbox/web-files/triiibe/press/index.html",
 		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/triplets/index.html",
-		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/tri_be/index.html",
 		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/tri_be/style.css",
 		"/Users/nathan/Dropbox/web-files/triiibe/index.html",
-		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/art-in-bloom/aib-article.html",
-		"/Users/nathan/Dropbox/web-files/triiibe/catalog/style.css",
 		"/Users/nathan/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 		"/Users/nathan/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
 		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/photo-responses/style.css",
 		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/analysis/kim-tecce-pink-lady.html",
-		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/analysis/compatibility-quiz-jackie-brown.html",
-		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/analysis/Abstinence-Eve-Anna-Farwell.html",
 		"/Users/nathan/Dropbox/web-files/triiibe/style.css",
 		"/Users/nathan/Dropbox/web-files/triiibe/css/main.css",
 		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/art-in-bloom/style.css",
@@ -465,16 +479,9 @@
 		"/Users/nathan/Dropbox/web-files/triiibe/browserconfig.xml",
 		"/Users/nathan/Dropbox/web-files/triiibe/js/main.js",
 		"/Users/nathan/Dropbox/web-files/triiibe/css/normalize.css",
-		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/analysis/john-rezuke-royal-gala.html",
 		"/Users/nathan/Dropbox/web-files/triiibe/template.html",
 		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/triplets/style.css",
-		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/analysis/myspace-lindsey-mcgann.html",
-		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/analysis/right-to-life-sara-prunier.html",
 		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/analysis/three-mil-plastic-kim-tecce.html",
-		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/analysis/golden-delicious-kevin-fitzmaurice.html",
-		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/analysis/stephanie-saba-mcintosh.html",
-		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/analysis/jairo-hernandez-miss.html",
-		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/analysis/jacob-hazel-homeland.html",
 		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/interview/style.css",
 		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/analysis/style.css",
 		"/Users/nathan/Dropbox/web-files/triiibe/about/triiibe/style.css",
@@ -482,7 +489,6 @@
 		"/Users/nathan/Dropbox/web-files/triiibe/js/jquery.grid-a-licious.min.js",
 		"/Users/nathan/Downloads/jquery.grid-a-licious.min.js",
 		"/Users/nathan/Dropbox/web-files/triiibe/css/blog.css",
-		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/analysis/right-to-life-kelsey-kunigonis.html",
 		"/Users/nathan/Dropbox/web-files/triiibe/interpretive-work/analysis/analysis.html",
 		"/Users/nathan/Dropbox/web-files/triiibe/header.html",
 		"/Users/nathan/Dropbox/web-files/triiibe/teams/index.html",
@@ -555,7 +561,7 @@
 	],
 	"find":
 	{
-		"height": 70.0
+		"height": 106.0
 	},
 	"find_in_files":
 	{
@@ -570,6 +576,11 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"<li><a href=\"/interpretive-work/q-a/\">Q&A with TRIIIBE</a></li>\n              <li><a href=\"/interpretive-work/one-in-a-million/\">One In A Million</a></li>\n              <li><a href=\"/interpretive-work/tri_be/\">TRI_BE@<br>samedifference</a></li>",
+			"<li><a href=\"/interpretive-work/q-a/\">Q&A with TRIIIBE</a></li>\n                      <li><a href=\"/interpretive-work/one-in-a-million/\">One In A Million</a></li>\n                      <li><a href=\"/interpretive-work/tri_be/\">TRI_BE@<br>samedifference</a></li>",
+			"<li><a href=\"/interpretive-work/q-a/\">Q&A with TRIIIBE</a></li>\n                <li><a href=\"/interpretive-work/one-in-a-million/\">One In A Million</a></li>\n                <li><a href=\"/interpretive-work/tri_be/\">TRI_BE@<br>samedifference</a></li>",
+			"<li><a href=\"/interpretive-work/q-a/\">Q&A with TRIIIBE</a></li>\n                  <li><a href=\"/interpretive-work/one-in-a-million/\">One In A Million</a></li>\n                  <li><a href=\"/interpretive-work/tri_be/\">TRI_BE@<br>samedifference</a></li>",
+			"rise",
 			"					        <li><a href=\"/interpretive-work/opening/\">See the Opening</a></li>\n					        <li><a href=\"/interpretive-work/photo-responses/\">Student Photo Responses</a></li>\n					        <li><a href=\"/interpretive-work/q-a/\">Q&A with TRIIIBE</a></li>\n                      <li><a href=\"/interpretive-work/one-in-a-million/\">One In A Million</a></li>\n                      <li><a href=\"/interpretive-work/tri_be/\">TRI_BE@<br>samedifference</a></li>\n					        <li><a href=\"/interpretive-work/art-in-bloom/\">Art In Bloom</a></li>\n									<li><a href=\"/interpretive-work/analysis/\">Student Interpretations</a></li>\n",
 			"                <li><a href=\"/interpretive-work/opening/\">See the Opening</a></li>\n                <li><a href=\"/interpretive-work/photo-responses/\">Student Photo Responses</a></li>\n                <li><a href=\"/interpretive-work/q-a/\">Q&A with TRIIIBE</a></li>\n                      <li><a href=\"/interpretive-work/one-in-a-million/\">One In A Million</a></li>\n                      <li><a href=\"/interpretive-work/tri_be/\">TRI_BE@<br>samedifference</a></li>\n                <li><a href=\"/interpretive-work/art-in-bloom/\">Art In Bloom</a></li>\n                <li><a href=\"/interpretive-work/analysis/\">Student Interpretations</a></li>\n",
 			"					        <li><a href=\"/interpretive-work/opening/\">See the Opening</a></li>\n					        <li><a href=\"/interpretive-work/photo-responses/\">Student Photo Responses</a></li>\n					        <li><a href=\"/interpretive-work/q-a/\">Q&A with TRIIIBE</a></li>\n                      <li><a href=\"/interpretive-work/one-in-a-million/\">One In A Million</a></li>\n                      <li><a href=\"/interpretive-work/tri_be/\">TRI_BE@<br>samedifference</a></li>\n					        <li><a href=\"/interpretive-work/art-in-bloom/\">Art In Bloom</a></li>\n					        <li><a href=\"/interpretive-work/analysis/\">Student Interpretations</a></li>\n",
@@ -692,12 +703,7 @@
 			"Triiibeopeningsp_15",
 			"Triiibeopeningsp_10",
 			"Triiibeopeningsp_4",
-			"Triiibeopeningsp_3",
-			"Triiibeopeningsp_10",
-			"Triiibeopeningsp_4",
-			"Triiibeopeningsp_3",
-			"Triiibeopeningsp_10",
-			"Triiibeopeningsp_4"
+			"Triiibeopeningsp_3"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -705,6 +711,10 @@
 		"regex": false,
 		"replace_history":
 		[
+			"<!-- <li><a href=\"/interpretive-work/q-a/\">Q&A with TRIIIBE</a></li>\n              <li><a href=\"/interpretive-work/one-in-a-million/\">One In A Million</a></li>\n              <li><a href=\"/interpretive-work/tri_be/\">TRI_BE@<br>samedifference</a></li> -->",
+			"<!-- <li><a href=\"/interpretive-work/q-a/\">Q&A with TRIIIBE</a></li>\n                      <li><a href=\"/interpretive-work/one-in-a-million/\">One In A Million</a></li>\n                      <li><a href=\"/interpretive-work/tri_be/\">TRI_BE@<br>samedifference</a></li> -->",
+			"<!-- <li><a href=\"/interpretive-work/q-a/\">Q&A with TRIIIBE</a></li>\n                <li><a href=\"/interpretive-work/one-in-a-million/\">One In A Million</a></li>\n                <li><a href=\"/interpretive-work/tri_be/\">TRI_BE@<br>samedifference</a></li> -->",
+			"<!-- <li><a href=\"/interpretive-work/q-a/\">Q&A with TRIIIBE</a></li>\n                  <li><a href=\"/interpretive-work/one-in-a-million/\">One In A Million</a></li>\n                  <li><a href=\"/interpretive-work/tri_be/\">TRI_BE@<br>samedifference</a></li> -->",
 			"					        <li><a href=\"/interpretive-work/opening/\">See the Opening</a></li>\n					        <li><a href=\"/interpretive-work/photo-responses/\">Student Photo Responses</a></li>\n									<li><a href=\"/interpretive-work/analysis/\">Student Interpretations</a></li>\n					        <li><a href=\"/interpretive-work/q-a/\">Q&A with TRIIIBE</a></li>\n                  <li><a href=\"/interpretive-work/one-in-a-million/\">One In A Million</a></li>\n                  <li><a href=\"/interpretive-work/tri_be/\">TRI_BE@<br>samedifference</a></li>\n					        <li><a href=\"/interpretive-work/art-in-bloom/\">Art In Bloom</a></li>\n",
 			"                <li><a href=\"/interpretive-work/opening/\">See the Opening</a></li>\n                <li><a href=\"/interpretive-work/photo-responses/\">Student Photo Responses</a></li>\n                <li><a href=\"/interpretive-work/analysis/\">Student Interpretations</a></li>\n                <li><a href=\"/interpretive-work/q-a/\">Q&A with TRIIIBE</a></li>\n                <li><a href=\"/interpretive-work/one-in-a-million/\">One In A Million</a></li>\n                <li><a href=\"/interpretive-work/tri_be/\">TRI_BE@<br>samedifference</a></li>\n                <li><a href=\"/interpretive-work/art-in-bloom/\">Art In Bloom</a></li>\n",
 			"					        <li><a href=\"/interpretive-work/opening/\">See the Opening</a></li>\n					        <li><a href=\"/interpretive-work/photo-responses/\">Student Photo Responses</a></li>\n					        <li><a href=\"/interpretive-work/analysis/\">Student Interpretations</a></li>\n					        <li><a href=\"/interpretive-work/q-a/\">Q&A with TRIIIBE</a></li>\n                  <li><a href=\"/interpretive-work/one-in-a-million/\">One In A Million</a></li>\n                  <li><a href=\"/interpretive-work/tri_be/\">TRI_BE@<br>samedifference</a></li>\n					        <li><a href=\"/interpretive-work/art-in-bloom/\">Art In Bloom</a></li>\n",
@@ -770,24 +780,24 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "video/index.html",
+					"file": "interpretive-work/analysis/three-mil-plastic-kim-tecce.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 7752,
+						"buffer_size": 4652,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5902,
-								5902
+								2163,
+								2163
 							]
 						],
 						"settings":
@@ -795,101 +805,36 @@
 							"BracketHighlighterBusy": false,
 							"bh_regions":
 							[
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
 								"bh_regex_close",
 								"bh_regex_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content"
-							],
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 1712.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "interpretive-work/art-in-bloom/index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 13328,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								6179,
-								6845
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
 								"bh_square_close",
 								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
@@ -910,36 +855,11 @@
 								"bh_tag_open",
 								"bh_tag_close",
 								"bh_tag_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
 								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content"
+								"bh_unmatched_content"
 							],
 							"incomplete_sync": null,
 							"remote_loading": false,
@@ -947,19 +867,199 @@
 							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 2355.0,
+						"translation.y": 349.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "about/triiibe/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9914,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6089,
+								6341
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1813.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "catalog/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8313,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1154,
+								1154
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "interpretive-work/one-in-a-million/index.html",
+					"buffer": 3,
+					"file": "press/index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 15639,
+						"buffer_size": 10993,
 						"regions":
 						{
 						},
@@ -975,61 +1075,61 @@
 							"BracketHighlighterBusy": false,
 							"bh_regions":
 							[
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
 								"bh_regex_close",
 								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
 								"bh_double_quote",
 								"bh_double_quote_center",
 								"bh_double_quote_open",
 								"bh_double_quote_close",
 								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
 								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
 								"bh_curly",
 								"bh_curly_center",
 								"bh_curly_open",
 								"bh_curly_close",
 								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
 								"bh_single_quote",
 								"bh_single_quote_center",
 								"bh_single_quote_open",
 								"bh_single_quote_close",
-								"bh_single_quote_content"
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
 							],
 							"incomplete_sync": null,
 							"remote_loading": false,
@@ -1037,117 +1137,27 @@
 							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 2014.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 9,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "about/fam/index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 9014,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								5861,
-								6474
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content"
-							],
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 1923.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 8,
+					"stack_index": 11,
 					"type": "text"
 				},
 				{
 					"buffer": 4,
-					"file": "about/triiibe/index.html",
+					"file": "about/site/index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 9905,
+						"buffer_size": 18485,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								6232,
+								6480
 							]
 						],
 						"settings":
@@ -1155,61 +1165,61 @@
 							"BracketHighlighterBusy": false,
 							"bh_regions":
 							[
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
 								"bh_regex_close",
 								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
 								"bh_double_quote",
 								"bh_double_quote_center",
 								"bh_double_quote_open",
 								"bh_double_quote_close",
 								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
 								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
 								"bh_curly",
 								"bh_curly_center",
 								"bh_curly_open",
 								"bh_curly_close",
 								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
 								"bh_single_quote",
 								"bh_single_quote_center",
 								"bh_single_quote_open",
 								"bh_single_quote_close",
-								"bh_single_quote_content"
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
 							],
 							"incomplete_sync": null,
 							"remote_loading": false,
@@ -1217,27 +1227,27 @@
 							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1832.0,
+						"translation.y": 1920.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 10,
 					"type": "text"
 				},
 				{
 					"buffer": 5,
-					"file": "catalog/index.html",
+					"file": "video/index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 8304,
+						"buffer_size": 7761,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								6471,
-								6471
+								5802,
+								6062
 							]
 						],
 						"settings":
@@ -1245,61 +1255,61 @@
 							"BracketHighlighterBusy": false,
 							"bh_regions":
 							[
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
 								"bh_regex_close",
 								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
 								"bh_double_quote",
 								"bh_double_quote_center",
 								"bh_double_quote_open",
 								"bh_double_quote_close",
 								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
 								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
 								"bh_curly",
 								"bh_curly_center",
 								"bh_curly_open",
 								"bh_curly_close",
 								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
 								"bh_single_quote",
 								"bh_single_quote_center",
 								"bh_single_quote_open",
 								"bh_single_quote_close",
-								"bh_single_quote_content"
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
 							],
 							"incomplete_sync": null,
 							"remote_loading": false,
@@ -1307,109 +1317,109 @@
 							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 2004.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "catalog/style.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 200,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								72,
-								72
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content"
-							],
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/CSS3/CSS3.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1737.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 2,
 					"type": "text"
 				},
 				{
-					"buffer": 7,
-					"file": "press/index.html",
+					"buffer": 6,
+					"file": "interpretive-work/analysis/index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 10984,
+						"buffer_size": 18638,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6284,
+								6528
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1775.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "interpretive-work/art-in-bloom/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13337,
 						"regions":
 						{
 						},
@@ -1422,66 +1432,66 @@
 						],
 						"settings":
 						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "interpretive-work/interview/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7232,
+						"regions":
+						{
+						},
+						"selection":
+						[
 							[
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content"
-							],
-							"incomplete_sync": null,
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "interpretive-work/one-in-a-million/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15648,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
 							"remote_loading": false,
 							"synced": false,
 							"syntax": "Packages/HTML/HTML.sublime-syntax"
@@ -1494,192 +1504,42 @@
 					"type": "text"
 				},
 				{
-					"buffer": 8,
-					"file": "about/site/index.html",
+					"buffer": 10,
+					"file": "interpretive-work/opening/index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 18476,
+						"buffer_size": 14745,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5933,
-								6557
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content"
-							],
-							"incomplete_sync": null,
 							"remote_loading": false,
 							"synced": false,
 							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1970.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 6,
 					"type": "text"
 				},
 				{
-					"buffer": 9,
-					"file": "interpretive-work/opening/index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 14736,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content"
-							],
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 1711.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 10,
-					"type": "text"
-				},
-				{
-					"buffer": 10,
+					"buffer": 11,
 					"file": "interpretive-work/photo-responses/index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 26726,
+						"buffer_size": 26756,
 						"regions":
 						{
 						},
@@ -1692,174 +1552,24 @@
 						],
 						"settings":
 						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content"
-							],
-							"incomplete_sync": null,
 							"remote_loading": false,
 							"synced": false,
 							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1813.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 11,
-					"type": "text"
-				},
-				{
-					"buffer": 11,
-					"file": "interpretive-work/q-a/index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 16945,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								8141,
-								8141
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content"
-							],
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 2576.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
 					"buffer": 12,
-					"file": "interpretive-work/tri_be/index.html",
+					"file": "interpretive-work/q-a/index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 14088,
+						"buffer_size": 16954,
 						"regions":
 						{
 						},
@@ -1872,162 +1582,72 @@
 						],
 						"settings":
 						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content"
-							],
-							"incomplete_sync": null,
 							"remote_loading": false,
 							"synced": false,
 							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1881.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 12,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
 					"buffer": 13,
-					"file": "interpretive-work/analysis/index.html",
+					"file": "interpretive-work/tri_be/index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 18629,
+						"buffer_size": 14097,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5993,
-								6603
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content"
-							],
-							"incomplete_sync": null,
 							"remote_loading": false,
 							"synced": false,
 							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1773.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "about/fam/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9048,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 13,
@@ -2088,6 +1708,86 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"threemil",
+				"interpretive-work/analysis/three-mil-plastic-kim-tecce.html"
+			],
+			[
+				"myspace",
+				"interpretive-work/analysis/myspace-lindsey-mcgann.html"
+			],
+			[
+				"kelsey",
+				"interpretive-work/analysis/right-to-life-kelsey-kunigonis.html"
+			],
+			[
+				"sarari",
+				"interpretive-work/analysis/right-to-life-sara-prunier.html"
+			],
+			[
+				"golden",
+				"interpretive-work/analysis/golden-delicious-kevin-fitzmaurice.html"
+			],
+			[
+				"jairo",
+				"interpretive-work/analysis/jairo-hernandez-miss.html"
+			],
+			[
+				"mcin",
+				"interpretive-work/analysis/stephanie-saba-mcintosh.html"
+			],
+			[
+				"jacob",
+				"interpretive-work/analysis/jacob-hazel-homeland.html"
+			],
+			[
+				"johnre",
+				"interpretive-work/analysis/john-rezuke-royal-gala.html"
+			],
+			[
+				"anna",
+				"interpretive-work/analysis/Abstinence-Eve-Anna-Farwell.html"
+			],
+			[
+				"artinbloom",
+				"interpretive-work/art-in-bloom/aib-article.html"
+			],
+			[
+				"comp",
+				"interpretive-work/analysis/compatibility-quiz-jackie-brown.html"
+			],
+			[
+				"analysis",
+				"interpretive-work/analysis/index.html"
+			],
+			[
+				"compat",
+				"interpretive-work/analysis/compatibility-quiz-jackie-brown.html"
+			],
+			[
+				"response",
+				"interpretive-work/photo-responses/index.html"
+			],
+			[
+				"interp",
+				"interpretive-work/analysis/index.html"
+			],
+			[
+				"opening",
+				"interpretive-work/opening/index.html"
+			],
+			[
+				"fam",
+				"about/fam/index.html"
+			],
+			[
+				"triiibe",
+				"about/triiibe/index.html"
+			],
+			[
+				"site",
+				"about/site/index.html"
+			],
 			[
 				"artindex",
 				"interpretive-work/art-in-bloom/index.html"
@@ -2157,10 +1857,6 @@
 				"interpretive-work/art-in-bloom/index.html"
 			],
 			[
-				"analysis",
-				"interpretive-work/analysis/index.html"
-			],
-			[
 				"pink",
 				"interpretive-work/analysis/kim-tecce-pink-lady.html"
 			],
@@ -2177,24 +1873,12 @@
 				"interpretive-work/photo-responses/index.html"
 			],
 			[
-				"interp",
-				"interpretive-work/analysis/index.html"
-			],
-			[
 				"abs",
 				"interpretive-work/analysis/Abstinence-Eve-Anna-Farwell.html"
 			],
 			[
 				"art-in",
 				"interpretive-work/art-in-bloom/index.html"
-			],
-			[
-				"site",
-				"about/site/index.html"
-			],
-			[
-				"opening",
-				"interpretive-work/opening/index.html"
 			],
 			[
 				"press",
@@ -2207,10 +1891,6 @@
 			[
 				"sitecss",
 				"about/site/style.css"
-			],
-			[
-				"fam",
-				"about/fam/index.html"
 			],
 			[
 				"main",
@@ -2231,10 +1911,6 @@
 			[
 				"m",
 				"js/main.js"
-			],
-			[
-				"triiibe",
-				"about/triiibe/index.html"
 			],
 			[
 				"respon",
@@ -2265,10 +1941,6 @@
 				"interpretive-work/analysis/jairo-hernandez-miss.html"
 			],
 			[
-				"mcin",
-				"interpretive-work/analysis/stephanie-saba-mcintosh.html"
-			],
-			[
 				"home",
 				"interpretive-work/analysis/jacob-hazel-homeland.html"
 			],
@@ -2277,16 +1949,8 @@
 				"interpretive-work/analysis/john-rezuke-royal-gala.html"
 			],
 			[
-				"anna",
-				"interpretive-work/analysis/Abstinence-Eve-Anna-Farwell.html"
-			],
-			[
 				"gala",
 				"interpretive-work/analysis/john-rezuke-royal-gala.html"
-			],
-			[
-				"kelsey",
-				"interpretive-work/analysis/right-to-life-kelsey-kunigonis.html"
 			],
 			[
 				"interpretiveindex",
@@ -2305,16 +1969,8 @@
 				"interpretive-work/analysis/three-mil-plastic-kim-tecce.html"
 			],
 			[
-				"myspace",
-				"interpretive-work/analysis/myspace-lindsey-mcgann.html"
-			],
-			[
 				"righttolife",
 				"interpretive-work/analysis/right-to-life-sara-prunier.html"
-			],
-			[
-				"jairo",
-				"interpretive-work/analysis/jairo-hernandez-miss.html"
 			],
 			[
 				"saba",
@@ -2339,10 +1995,6 @@
 			[
 				"mc",
 				"interpretive-work/analysis/stephanie-saba-mcintosh.html"
-			],
-			[
-				"golden",
-				"interpretive-work/analysis/golden-delicious-kevin-fitzmaurice.html"
 			],
 			[
 				"reponse",
@@ -2454,9 +2106,13 @@
 	"select_project":
 	{
 		"height": 500.0,
-		"last_filter": "nath",
+		"last_filter": "natha",
 		"selected_items":
 		[
+			[
+				"natha",
+				"~/Dropbox/web-files/personal/nathanwentworth/nathan-wentworth.sublime-project"
+			],
 			[
 				"nath",
 				"~/Dropbox/web-files/personal/nathanwentworth/nathan-wentworth.sublime-project"
